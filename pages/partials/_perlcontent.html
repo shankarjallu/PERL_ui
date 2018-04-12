@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+            <title>Personalized Timeline</title>
+        </head>
+        <body onload="getCookie();">
+        <div class="container">
+            <header>
+                <img src="../../dotcom/images/highmarkLogo.png">
+            </header>
+            <section class="section-timeline">
+               
+                <div class="row div-header">
+                    <div class="col-sm-6">
+                        <div class="page-header">
+                            <h1 id="welcome-name">Welcome, </h1>
+                            <p>On this site, you'll find helpful information to make your transition to Medicare easier- including your personalized timeline of steps to take.</p>
+                            <p><b>Estimated Retirement Date:</b> <span id="estRetDate"></span> <a href="#">Change</a></p>
+                        </div>
+                    </div>
+                </div>
+              
+                <div class="board">
+                    <div class="board-inner">
+                        <ul class="nav nav-tabs custom-nav-tabs" >
+                            <div class="liner"></div> 
+                            <li class="li-timeline">
+                                <a id="tabOne" href="#tabOneContent" data-toggle="tab"  >
+                                      <span class="round-tabs one">
+                                      </span>
+                                    <label id='label0' class="label label-default label-tab"></label>
+                                </a>
+                            </li>
+
+                            <li>
+                                <a id="tabTwo" href="#tabTwoContent" data-toggle="tab" >
+                                     <span class="round-tabs two">
+                                     </span>
+                                    <label id='label1' class="label label-default label-tab" ></label>
+                                </a>
+                            </li>
+
+                            <li>
+                                <a id="tabThree" href="#tabThreeContent" data-toggle="tab" >
+                                     <span class="round-tabs three">
+                                     </span>
+                                     <label id='label2' class="label label-default label-tab" ></label>
+                                </a>
+                            </li>
+
+                            <li>
+                                <a id="tabFour" href="#tabFourContent" data-toggle="tab"  >
+                                     <span class="round-tabs four">
+                                     </span>
+                                    <label id='label3' class="label label-default label-tab" ></label>
+                                </a>
+                            </li>
+
+                            <li>
+                                <a id="tabFive" href="#tabFiveContent" data-toggle="tab" >
+                                     <span class="round-tabs five">
+                                     </span>
+                                    <label id='label4' class="label label-default label-tab" ></label>
+                                </a>
+                            </li>
+
+                            <li>
+                                <a id="tabSix" href="#tabSixContent" data-toggle="tab" >
+                                     <span class="round-tabs six">
+                                     </span>
+                                     <label id='label5' class="label label-default label-tab" ></label>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                   
+
+
+                    
+                    <div class="tab-content">
+                       
+                        <div class="tab-pane fade" id="tabOneContent">
+                            <h3 class="head text-center">Some content</h3>
+                            <div class="narrow text-center">
+                                You clicked tab 1: Lorem ipsum dolor sit amet, his ea mollis fabellas principes. Quo mazim facilis tincidunt ut, utinam saperet facilisi an vim.
+                                <div class="perl_customer" id="perlcustomer"></div>
+
+                            </div>
+                            
+                        </div>
+
+                       
+                        <div class="tab-pane fade" id="tabTwoContent">
+                            <div class="narrow text-center">
+                                You clicked tab 2: Lorem ipsum dolor sit amet, his ea mollis fabellas principes. Quo mazim facilis tincidunt ut, utinam saperet facilisi an vim.
+                                <div class="perl_customer" id="perlcustomer"></div>
+
+                            </div>
+                            
+                        </div>
+
+                       
+                        <div class="tab-pane fade" id="tabThreeContent">
+                            <div class="narrow text-center">
+                                You clicked tab 3: Lorem ipsum dolor sit amet, his ea mollis fabellas principes. Quo mazim facilis tincidunt ut, utinam saperet facilisi an vim.
+                                <div class="perl_customer" id="perlcustomer"></div>
+
+                            </div>
+                            
+                                
+                        </div>
+
+                       
+                        <div class="tab-pane fade" id="tabFourContent">
+                            <div class="narrow text-center">
+                                You clicked tab 4: Lorem ipsum dolor sit amet, his ea mollis fabellas principes. Quo mazim facilis tincidunt ut, utinam saperet facilisi an vim.
+                                <div class="perl_customer" id="perlcustomer"></div>
+
+                            </div>
+                            
+                        </div>
+
+                       
+                        <div class="tab-pane fade" id="tabFiveContent">
+                            <div class="narrow text-center">
+                                You clicked tab 5:Lorem ipsum dolor sit amet, his ea mollis fabellas principes. Quo mazim facilis tincidunt ut, utinam saperet facilisi an vim.
+                                <div id="agentInfo" class="jumbotron perl_customer" style="display: none;"></div>
+
+                            </div>
+                        </div>
+
+                     
+                        <div class="tab-pane fade" id="tabSixContent">
+                            <p class="narrow text-center">
+                                You clicked tab 6:Lorem ipsum dolor sit amet, his ea mollis fabellas principes. Quo mazim facilis tincidunt ut, utinam saperet facilisi an vim.
+                            </p>
+                            
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+
+                </div>
+            </section>
+           
+            <footer class="footer">
+            </footer>
+        </div>
+           
+            <style>
+                    body{
+                        font-family: 'segoe ui';
+                    }
+
+                    .popover-content {
+                    width:300px;
+                    padding:10px;
+                    }
+
+                    label{
+                    font-weight:400;
+                    }
+
+                    .container{
+                    width: 70%;
+                    min-width: 368px;
+                    }
+
+                    .footer{
+                    background-color: #00a4e4;
+                    padding: 10px;
+                    }
+
+                    /*----------timeline styles------------*/
+
+                    .section-timeline{
+                    padding: 0px;
+                    border-spacing: 18px;
+                    }
+
+                    .div-header{
+                    background-color: #00a4e4;
+                    }
+
+                    .page-header{
+                    color:white;
+                    border-bottom:none;
+                    width: 85%;
+                    margin: 0 auto;
+                    padding:15px 15px 40px 15px;
+                    }
+
+                    board{
+                    width: 75%;
+                    margin: 60px auto;
+                    height: 500px;
+                    background: #fff;
+                    }
+
+                    .custom-nav-tabs{
+                    border-bottom:none;
+                    }
+
+                    .li-timeline{
+                    margin-left:6px;
+                    }
+
+                    .board .nav-tabs {
+                        position: relative;
+                        /* border-bottom: 0; */
+                        /* width: 80%; */
+                        margin: -68px auto;
+                        margin-bottom: 0;
+                        box-sizing: border-box;
+                    }
+
+                   
+
+                    p.narrow{
+                        width: 60%;
+                        margin: 10px auto;
+                    }
+
+                    .liner{
+                        height: 2px;
+                        background: #00a4e4;
+                        position: absolute;
+                        width: 80%;
+                        margin: 0 auto;
+                        left: -16px;
+                        right: 0;
+                        top: 50%;
+                        z-index: 1;
+                    }
+
+                    .nav-tabs>li>a
+                    {
+                        border:none;
+                    }
+
+                    .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+                        color: #555555;
+                        cursor: default;
+                        /* background-color: #ffffff; */
+                        border: none;
+                        border-bottom-color: transparent;
+                    }
+
+                    span.round-tabs{
+                        width: 20px;
+                        height: 20px;
+                        line-height: 70px;
+                        display: inline-block;
+                        border-radius: 100px;
+                        background: white;
+                        z-index: 2;
+                        position: absolute;
+                        left: 0;
+                        text-align: center;
+                        font-size: 25px;
+                    }
+
+                    .label-tab{
+                    color: #00a4e4;
+                    position: relative;
+                    top: 18px;
+                    text-align: left;
+                    left: -17px;
+                    background: transparent;
+                    }
+
+                    span.round-tabs.one{
+                        color: #00a4e4;border: 2px solid #00a4e4;
+                    }
+
+                    li.active span.round-tabs.one{
+                        background: #03d0fffa;
+                        border: 2px solid #00cfff;
+                        color: #00a4e4;
+                    }
+
+                    span.round-tabs.two{
+                        color: #00a4e4;border: 2px solid #00a4e4;
+                    }
+
+                    li.active span.round-tabs.two{
+                        background: #03d0fffa;
+                        border: 2px solid #00cfff;
+                        color: #00a4e4;
+                    }
+
+                    span.round-tabs.three{
+                        color: #00a4e4;border: 2px solid #00a4e4;
+                    }
+
+                    li.active span.round-tabs.three{
+                        background: #03d0fffa;
+                        border: 2px solid #00cfff;
+                        color: #00a4e4;
+                    }
+
+                    span.round-tabs.four{
+                        color: #00a4e4;border: 2px solid #00a4e4;
+                    }
+
+                    li.active span.round-tabs.four{
+                        background: #03d0fffa;
+                        border: 2px solid #00cfff;
+                        color: #00a4e4;
+                    }
+
+                    span.round-tabs.five{
+                        color: #00a4e4;border: 2px solid #00a4e4;
+                    }
+
+                    li.active span.round-tabs.five{
+                        background: #03d0fffa;
+                        border: 2px solid #00cfff;
+                        color: #00a4e4;
+                    }
+
+                    span.round-tabs.six{
+                        color: #00a4e4;border: 2px solid #00a4e4;
+                    }
+
+                    li.active span.round-tabs.six{
+                        background: #03d0fffa;
+                        border: 2px solid #00cfff;
+                        color: #00a4e4;
+                    }
+
+                    
+                    .nav-tabs > li {
+                        width: 16%;
+                    }
+
+                    li:after {
+                        content: " ";
+                        position: absolute;
+                        left: 45%;
+                       opacity:0;
+                        margin: 0 auto;
+                        bottom: 0px;
+                        border: 5px solid transparent;
+                        border-bottom-color: #ddd;
+                        transition:0.1s ease-in-out;
+                    }
+
+                   
+
+                    .nav-tabs > li a{
+                       width: 20px;
+                       height: 20px;
+                       margin: 20px auto;
+                       border-radius: 100%;
+                       padding: 0;
+                    }
+
+                    .nav-tabs > li a:hover{
+                        background: transparent;
+                    }
+
+
+                    .tab-pane{
+                        position: relative;
+                        padding-top: 50px;
+                    }
+                    .tab-content .head{
+                        font-family: 'Roboto Condensed', sans-serif;
+                        font-size: 25px;
+                        text-transform: uppercase;
+                        padding-bottom: 10px;
+                    }
+                    .btn-outline-rounded{
+                        padding: 10px 40px;
+                        margin: 20px 0;
+                        border: 2px solid transparent;
+                        border-radius: 25px;
+                    }
+
+                    .btn.green{
+                        background-color:#5cb85c;
+                        /*border: 2px solid #5cb85c;*/
+                        color: #ffffff;
+                    }
+
+                    .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover
+                    {
+                        background-color:transparent;
+                    }
+
+                    @media( max-width : 585px ){
+
+                    .board {
+                    width: 90%;
+                    height:auto !important;
+                    }
+
+                    span.round-tabs {
+                    font-size:16px;
+                    width: 20px;
+                    height: 20px;
+                    line-height: 50px;
+                    }
+
+                    .tab-content .head{
+                        font-size:20px;
+                    }
+
+                    .nav-tabs > li a {
+                    width: 20px;
+                    height: 20px;
+                    line-height:50px;
+                    }
+
+                    li.active:after {
+                    content: " ";
+                    position: absolute;
+                    left: 35%;
+                    }
+
+                    .btn-outline-rounded {
+                        padding:12px 20px;
+                    }
+                }
+            </style>
+
+        </body>
+
+</html>

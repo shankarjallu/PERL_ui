@@ -1,0 +1,252 @@
+/* VARIABLES
+========================================================================== */
+
+
+/* BORDER-RADIUS
+========================================================================== */
+$roundedSm: 2px!default;
+$roundedMed: 3px!default;
+$roundedLg: 4px!default;
+
+
+/* BASE LINE HEIGHT AND FONT SIZE
+========================================================================== */
+$fontSizeBase:    13px!default;
+/*
+ * Ancillary sizes (in pixels).
+ */
+$fontSizeXSm:         12px!default;
+$fontSizeSm:         14px!default;
+$fontSizeLg:         18px!default;
+$fontSizeXLg:         22px!default;
+
+/*
+ * The line height specified here affects typography spacing/margins across the site - see "SPACING UNITS" BELOW.
+ */
+$lineHeight:  26px!default;
+
+
+/* LINE HEIGHT RATIO
+========================================================================== */
+$lineHeightRatio: $lineHeight / $fontSizeBase;
+
+
+/* SPACING UNITS
+========================================================================== */
+/*
+ * Use these variables instead of hard px numbers when adding padding/margin numbers across the site.
+ *
+ * We can do one-off spacing on items if necessary, but otherwise using these lends itself to a 
+ * balanced vertical rythm. 
+ */
+$spacingBase: $lineHeight !default;
+$spacingSm: $spacingBase/2 !default;
+$spacingXSm: $spacingSm/2 !default;
+$spacingLg: $spacingBase*2 !default;
+$spacingXLg: $spacingLg*2 !default;
+
+
+/* FONT FAMILIES
+========================================================================== */
+/*
+ * $fontDefault is the main page font applied to the HTML element by default
+ * in components\_html.scss
+ */
+
+$fontDefault:  Arial, Helvetica, clean, sans-serif !default;
+$fontHighlight: 'Helvetica Nueue', Helvetica, Arial, sans-serif !default;
+$fontHighlightMedium: 'HelveticaNeue-Medium', Helvetica, Arial, sans-serif !default;
+$fontAlternate: Helvetica, Arial, sans-serif !default;
+$fontFeatured: 'Gotham Book', Gotham-Book, Helvetica, Arial, sans-serif !default;
+$fontIcon: 'fontello' !default;
+$fontHightlightAlternate: ArialMT, Arial, Helvetica, clean, sans-serif !default;
+/* IRIS-Coupon-Page
+========================================================================== */
+$fontDefaultCoupon: Roboto, Helvetica, sans-serif;
+$fontDefaultCouponDesc: OpenSans,Arial, Helvetica, clean, sans-serif !default;
+$fontDefaultCouponSignUp: Montserrat,Esteban,Loba !default;
+
+
+/* HEADING SIZES
+========================================================================== */
+$h1Size: 18px!default;
+$h2Size: 16px!default;
+$h3Size: 16px!default;
+$h4Size: 13px!default;
+$h5Size: 13px!default;
+$h6Size: 13px!default;
+
+
+/* COLORS
+========================================================================== */
+/* Generic color names set as a base */
+$colorRed: #cc0000 !default;
+$colorGreen: #008a44 !default;
+$colorBlue: #2060ca !default;
+$colorLightBlue: #2060ca !default;
+$colorDarkBlue: #03588c !default;
+$colorYellow: #f9b106 !default;
+$colorGrey: #888888 !default;
+$colorGreyLight: #cccccc !default;
+$colorGreyLighter: #ebebeb !default;
+$colorGreyLightest: #fafafa !default;
+$colorGreyDark: #666666 !default;
+$colorGreyDarker: #4b4b4b !default;
+$colorGreyDarkest: #333333 !default;
+$colorBlack: #000000 !default;
+$colorWhite: #ffffff !default;
+$colorGreyChrome: #777 !default;
+$colorDarkBlack: #3a3a3a;
+
+/* JCP color names to inherit base colors */
+$colorTin: $colorGrey;
+$colorCement: $colorGreyLight;
+$colorWhiteSmoke: $colorGreyLighter;
+$colorGhost: $colorGreyLightest;
+$colorDevyGrey: $colorGreyDark;
+$colorJet: $colorGreyDarker;
+$colorJCPRed: $colorRed;
+$colorJade: $colorGreen;
+
+/* Text and link colors */
+$colorText: $colorGreyDarker !default;
+$colorPrimary: $colorJCPRed !default;
+$colorSecondary: $colorCement !default;
+$colorNegative: $colorJCPRed !default;
+$colorLinks: $colorBlue !default;
+$colorLinksHover: colorLinks !default;
+
+
+/* BUTTONS
+========================================================================== */
+$btnFontWeight: bold !default;
+
+/*default buttons*/
+$btnDefaultPadding:              $spacingXSm/2 $spacingSm*1.5 !default;
+$btnDefaultColor:                $colorGreyDarker !default;
+$btnDefaultBg:                   $colorGreyLight !default;
+$btnDefaultHoverColor:           $colorGreyDark !default;
+$btnDefaultHoverBg:              darken($btnDefaultBg, 5%) !default;
+
+/*primary call to action buttons*/
+$btnPrimaryColor:                $colorWhite !default;
+$btnPrimaryBg:                   $colorJCPRed !default;
+$btnPrimaryHoverColor:           $colorWhite !default;
+$btnPrimaryHoverBg:              darken($btnPrimaryBg, 5%) !default;
+
+/*secondary call to action buttons*/
+$btnSecondaryColor:              $colorWhite !default;
+$btnSecondaryBg:                 $colorDarkBlue !default;
+$btnSecondaryHoverColor:         $colorWhite !default;
+$btnSecondaryHoverBg:            darken($btnSecondaryBg, 8%) !default;
+
+/*xsm buttons*/
+$btnXSmFontSize:             	 $fontSizeBase*.8 !default;
+$btnXSmLineHeight:               $lineHeight*.66 !default;
+$btnXSmPadding:             	 ($spacingXSm*.66)  ($spacingSm*.8) !default;
+
+/*sm buttons*/
+$btnSmFontSize:             	 $fontSizeBase*.9 !default;
+$btnSmLineHeight:                $lineHeight*.9 !default;
+$btnSmPadding:             	     ($spacingXSm*.9)  ($spacingSm*.9) !default;
+ 
+/*lg buttons*/ 
+$btnLgFontSize:             	 $fontSizeBase*1.1 !default;
+$btnLgLineHeight:                $lineHeight*1.1 !default;
+$btnLgPadding:             	     ($spacingXSm*1.1)  ($spacingSm*1.1) !default;
+
+
+/* FORMS
+========================================================================== */
+/*
+* Basic form styling
+*/
+$formInputFontSize: $fontSizeBase !default;
+$formColorPLaceholder: $colorGrey !default;
+$formInputPadding: $spacingXSm !default;
+$formInputHeight: $lineHeight+($spacingXSm*2) !default;
+$formInputBackground: $colorWhite !default;
+$formInputBorder: 1px solid $colorGreyLight !default;
+$formInputBorderRadius: 0 !default;
+$formInputColor: inherit !default;
+/*
+* Disabled inputs
+*/
+$formInputDisabledBackground: $colorGreyLightest !default;
+$formInputDisabledBorderColor: null !default;
+$formInputDisabledColor: $colorGrey !default;
+/*
+* Focused inputs
+*/
+$formInputFocusBackground: null !default;
+$formInputFocusBorderColor: $colorGrey !default;
+$formInputFocusColor: null !default;
+/*
+* Checkboxes and Radios
+*/
+$checkRadLabelBackground: $colorGreyLightest !default;
+$checkRadLabelcolor: inherit !default;
+$checkRadLabelBorderRadius: 0 !default;
+$checkRadLabelHoverBackground: $colorGreyLight !default;
+$checkRadLabelHoverColor: null !default;
+$checkRadLabelCheckedBackground: $colorGreyDark !default;
+$checkRadLabelCheckedColor: $colorWhite !default;
+$checkRadLabelDisabledBackground: $colorGreyLight !default;
+$checkRadLabelDisabledColor: inherit !default;
+
+
+/* FILE PATHS
+========================================================================== */
+/* Template Images */
+$pathTemplateImages: "../../images/"!default;
+/* USAGE: url('#{$pathTemplateImages}background.png'); */
+
+/* Fonts */
+$pathFonts: "../fonts/"!default;
+
+
+/* MAX-WIDTH
+========================================================================== */
+/*
+ * Used in _components/_container.scss
+ */
+$maxWidth: 986px;
+
+
+/* GUTTERS
+========================================================================== */
+/*
+ * Define gutter width for rows, grid and container.
+ *
+ */
+$gutterBase: 13px!default;
+$gutterSm:   $gutterBase/2;
+$gutterXSm:  $gutterSm/2;
+$gutterLg:   $gutterBase*2;
+$gutterXLg:  $gutterLg*2;
+
+
+/* MEDIA QUERIES
+========================================================================== */
+/*
+ * Define when breakpoints start.
+ *
+ * !!! The xsm breakpoint is set to start at 1px for use in styles and mixins.
+ * I also hate those janky sites where everything breaks below 320px but that's just me ;)
+ */
+$startXSm:   1px!default;
+$startSm:    480px!default;
+$startMed:   641px!default;
+$startLg:    1024px!default;
+$startXLg:   1440px!default;
+$startXXLg:  1921px!default;
+
+/*
+ * Which is used to define end points.
+ */
+
+$endXSm:     $startSm - 1px;
+$endSm:      $startMed - 1px;
+$endMed:     $startLg - 1px;
+$endLg:      $startXLg - 1px;
+$endXLg:     $startXXLg - 1px;

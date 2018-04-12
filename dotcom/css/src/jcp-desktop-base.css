@@ -1,0 +1,173 @@
+/* jcp-desktop-base.css
+========================================================================== */
+/* IMPORTS
+========================================================================== */
+/*
+	* UTILITIES
+*/
+/* VARIABLES
+========================================================================== */
+/* BORDER-RADIUS
+========================================================================== */
+/* BASE LINE HEIGHT AND FONT SIZE
+========================================================================== */
+/*
+ * Ancillary sizes (in pixels).
+ */
+/*
+ * The line height specified here affects typography spacing/margins across the site - see "SPACING UNITS" BELOW.
+ */
+/* LINE HEIGHT RATIO
+========================================================================== */
+/* SPACING UNITS
+========================================================================== */
+/*
+ * Use these variables instead of hard px numbers when adding padding/margin numbers across the site.
+ *
+ * We can do one-off spacing on items if necessary, but otherwise using these lends itself to a 
+ * balanced vertical rythm. 
+ */
+/* FONT FAMILIES
+========================================================================== */
+/*
+ * $fontDefault is the main page font applied to the HTML element by default
+ * in components\_html.scss
+ */
+/* IRIS-Coupon-Page
+========================================================================== */
+/* HEADING SIZES
+========================================================================== */
+/* COLORS
+========================================================================== */
+/* Generic color names set as a base */
+/* JCP color names to inherit base colors */
+/* Text and link colors */
+/* BUTTONS
+========================================================================== */
+/*default buttons*/
+/*primary call to action buttons*/
+/*secondary call to action buttons*/
+/*xsm buttons*/
+/*sm buttons*/
+/*lg buttons*/
+/* FORMS
+========================================================================== */
+/*
+* Basic form styling
+*/
+/*
+* Disabled inputs
+*/
+/*
+* Focused inputs
+*/
+/*
+* Checkboxes and Radios
+*/
+/* FILE PATHS
+========================================================================== */
+/* Template Images */
+/* USAGE: url('../../images/background.png'); */
+/* Fonts */
+/* MAX-WIDTH
+========================================================================== */
+/*
+ * Used in _components/_container.scss
+ */
+/* GUTTERS
+========================================================================== */
+/*
+ * Define gutter width for rows, grid and container.
+ *
+ */
+/* MEDIA QUERIES
+========================================================================== */
+/*
+ * Define when breakpoints start.
+ *
+ * !!! The xsm breakpoint is set to start at 1px for use in styles and mixins.
+ * I also hate those janky sites where everything breaks below 320px but that's just me ;)
+ */
+/*
+ * Which is used to define end points.
+ */
+/* WEB FONTS
+========================================================================== */
+/*
+ * Declare your imported fonts here
+ */
+@font-face {
+  font-family: 'roboto';
+  src: url("../fonts/Roboto-Light.eot");
+  src: url("../fonts/Roboto-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto-Light.woff2") format("woff2"), url("../fonts/Roboto-Light.woff") format("woff"), url("../fonts/Roboto-Light.ttf") format("truetype"), url("../fonts/Roboto-Light.svg#roboto") format("svg");
+  font-weight: 300;
+  font-style: normal; }
+@font-face {
+  font-family: 'roboto';
+  src: url("../fonts/Roboto-Bold.eot");
+  src: url("../fonts/Roboto-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Roboto-Bold.woff2") format("woff2"), url("../fonts/Roboto-Bold.woff") format("woff"), url("../fonts/Roboto-Bold.ttf") format("truetype"), url("../fonts/Roboto-Bold.svg#roboto") format("svg");
+  font-weight: 700;
+  font-style: normal; }
+/*
+	* COMPONENTS
+	*
+	* These are simple structures like HTML tags such as <a>, <ul>, <button> and the styles that apply
+	* specifically and directly to them.
+	*
+	* These are presented in a certain order based on dependancy on each other.
+*/
+.loader {
+  position: fixed;
+  top: 35%;
+  left: 50%;
+  z-index: 1000;
+  margin: 60px auto;
+  font-size: 5px;
+  text-indent: -9999em;
+  border-top: 1.1em solid rgba(116, 116, 116, 0.2);
+  border-right: 1.1em solid rgba(116, 116, 116, 0.2);
+  border-bottom: 1.1em solid rgba(116, 116, 116, 0.2);
+  border-left: 1.1em solid #747474;
+  -webkit-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-animation: load8 1.1s infinite linear;
+  animation: load8 1.1s infinite linear; }
+
+.loader--mlt {
+  position: absolute;
+  top: 0; }
+
+.loader,
+.loader:after {
+  border-radius: 50%;
+  width: 10em;
+  height: 10em; }
+
+@-webkit-keyframes load8 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg); }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg); } }
+@keyframes load8 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg); }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg); } }
+.modal .loader {
+  top: 50%;
+  left: 50%;
+  margin: -25px; }
+
+/*
+	* MODULES
+	*
+	* These are more complex structures composed of multiple elements and/or custom styled
+	* divs, spans, etc.
+*/
+.container {
+  max-width: 1360; }

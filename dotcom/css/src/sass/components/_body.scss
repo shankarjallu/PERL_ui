@@ -1,0 +1,37 @@
+/* BODY
+========================================================================== */
+body {
+	/* Uncomment for clean header 
+	color: $colorText; */
+	color: #4b4b4b;
+    font: 13px/1.5 $fontDefault;
+	min-width: 986px;
+	-webkit-font-smoothing: antialiased
+}
+
+.descriptiveText {
+	color:$colorGreyDark;
+	margin-bottom: $spacingBase;
+
+	a {
+		text-decoration: underline;
+	}
+
+	.modal_content & {
+		margin-left: $spacingBase;
+		margin-right: $spacingBase;	
+	}
+}
+
+.loading_container {
+	background: $colorWhite;
+	height: 100%;
+	opacity: .8;
+	position: absolute;
+	width: 100%;
+	z-index: 10000;
+}
+
+.ui-tooltip-content {
+	font-family: $fontDefault;
+}

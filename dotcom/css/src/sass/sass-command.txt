@@ -1,0 +1,7 @@
+cd '/Development/ui/dotcomdesktopui/Base Framework/dotcom/css/src'
+
+Development
+sass --watch --style compact  --line-comments sass/jcp-desktop-base.scss:jcp-desktop-base.css sass/browsers/jcp-desktop-ie8.scss:jcp-desktop-ie8.css sass/browsers/jcp-desktop-ie9.scss:jcp-desktop-ie9.css sass/responsive.scss:responsive.css
+
+Production
+sass --watch --style compressed --sourcemap=none sass/jcp-desktop-base.scss:jcp-desktop-base.css sass/browsers/jcp-desktop-ie8.scss:jcp-desktop-ie8.css sass/browsers/jcp-desktop-ie9.scss:jcp-desktop-ie9.css sass/responsive.scss:responsive.css

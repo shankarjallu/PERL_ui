@@ -1,0 +1,30 @@
+/* WEB FONTS
+========================================================================== */
+
+/*
+ * Declare your imported fonts here
+ */
+
+ @font-face {
+    font-family: 'roboto';
+    src: url('#{$pathFonts}Roboto-Light.eot');
+    src: url('#{$pathFonts}Roboto-Light.eot?#iefix') format('embedded-opentype'),
+         url('#{$pathFonts}Roboto-Light.woff2') format('woff2'),
+         url('#{$pathFonts}Roboto-Light.woff') format('woff'),
+         url('#{$pathFonts}Roboto-Light.ttf') format('truetype'),
+         url('#{$pathFonts}Roboto-Light.svg#roboto') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+ @font-face {
+    font-family: 'roboto';
+    src: url('#{$pathFonts}Roboto-Bold.eot');
+    src: url('#{$pathFonts}Roboto-Bold.eot?#iefix') format('embedded-opentype'),
+         url('#{$pathFonts}Roboto-Bold.woff2') format('woff2'),
+         url('#{$pathFonts}Roboto-Bold.woff') format('woff'),
+         url('#{$pathFonts}Roboto-Bold.ttf') format('truetype'),
+         url('#{$pathFonts}Roboto-Bold.svg#roboto') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}

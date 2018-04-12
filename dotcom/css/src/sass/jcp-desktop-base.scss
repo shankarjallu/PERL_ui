@@ -1,0 +1,45 @@
+/* jcp-desktop-base.css
+========================================================================== */
+
+
+/* IMPORTS
+========================================================================== */
+
+/*
+	* UTILITIES
+*/
+
+@import "utilities/variables";
+
+@import "utilities/fonts";
+
+
+/*
+	* COMPONENTS
+	*
+	* These are simple structures like HTML tags such as <a>, <ul>, <button> and the styles that apply
+	* specifically and directly to them.
+	*
+	* These are presented in a certain order based on dependancy on each other.
+*/
+
+
+@import "components/spinner";
+
+
+/*
+	* MODULES
+	*
+	* These are more complex structures composed of multiple elements and/or custom styled
+	* divs, spans, etc.
+*/
+
+
+
+
+@import "modules/header";
+
+
+
+
+
