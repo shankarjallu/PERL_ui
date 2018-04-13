@@ -76,7 +76,7 @@ module.exports = function(grunt) {
 '<%= pkg.js_src_path %>lib/slick.min.js',
 '<%= pkg.js_src_path %>lib/jquery-ui.min.js',               
 '<%= pkg.js_src_path %>lib/jquery-ui-timepicker-addon.js',
-'<%= pkg.js_src_path %>lib/jquery.dotdotdot.js',
+
 '<%= pkg.js_src_path %>lib/jquery.form.js',
 '<%= pkg.js_src_path %>lib/jquery.ba-postMessage.js',
 '<%= pkg.js_src_path %>lib/underscore-min-1.4.2.js',
