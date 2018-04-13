@@ -18858,53 +18858,10 @@ var etbodydata =
 
 //     });
 // })(window, document, jQuery);
-// (function(window, document, $, undefined) {
-//     $(document).ready(function() {
-
-//         function setCookie(cname, cvalue, exdays) {
-//                 var d = new Date();
-//                 d.setTime(d.getTime() + 3600 * 1000);
-//                 var expires = 'expires=' + d.toUTCString();
-//                 document.cookie = cname + '=' + cvalue + '; ' + expires + '; path=/';
-//             }
 
 
-
-
-//             function getCookie(name) {
-//                var re = new RegExp(name + '=([^;]+)');
-//                     var value = re.exec(document.cookie);
-//                     return value !== null ? unescape(value[1]) : null;
-//             }
-
-
-
-//         var perldata =  getCookie('perl-custumer-care');
-//     var perlCustumerData =    JSON.parse(perldata);
-//        console.log("this is perl-customer-dare data+" + " " + perlCustumerData);
-
-//        var perlName = perlCustumerData.Name;
-//        var perlZip = perlCustumerData.Zip;
-//        var perlRegion = perlCustumerData.Region;
-//        var perlHeader = perlCustumerData.Header;
-
-//        var k = '<div>';
-
-
-//     k+= '<h3>' + perlName + '</h3>';
-//     k+= '<h3>' + perlZip + '</h3>';
-//     k+= '<h3>' + perlRegion + '</h3>';
-
-
-// k += '</div>';
-
-// //document.getElementById('perlcustomer').innerHTML = k;
-// $('#perlcustomer').append(k);
-//     });
-
-// })(window, document, jQuery);
-
-
+(function(window, document, $, undefined) {
+    $(document).ready(function() {
 function getAgentInfo() {
     var perldata = getCookie('perl-custumer-care');
     var perlCustumerData = JSON.parse(perldata);
@@ -18941,9 +18898,17 @@ function getAgentInfo() {
     $("#agentInfo").append(k);
 }
 
+
+});
+
+ })(window, document, jQuery);
+
+
 (function(window, document, $, undefined) {
          $(document).ready(function() { 
             getFormFields();
+       // tooltip
+            $('[data-toggle="tooltip"]').tooltip(); 
 
 
 function findMonthsTill65(currentYear, birthYear, birthMonth, currentMonth) {

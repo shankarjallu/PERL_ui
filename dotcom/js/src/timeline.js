@@ -2,6 +2,8 @@
 (function(window, document, $, undefined) {
          $(document).ready(function() { 
             getFormFields();
+       // tooltip
+            $('[data-toggle="tooltip"]').tooltip(); 
 
 
 function findMonthsTill65(currentYear, birthYear, birthMonth, currentMonth) {
