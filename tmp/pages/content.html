@@ -52,7 +52,6 @@
 <script src="../../dotcom/js/src/timeline.js"></script>
 <script src="../../dotcom/js/src/createTimeline.js"></script>
 <script src="../../dotcom/js/src/cookie.js"></script>
-<script src="../../dotcom/js/src/perlcontent.js"></script>
 
 
 <!-- /build -->
@@ -154,7 +153,9 @@
                             <h3 class="head text-center">Some content</h3>
                             <div class="narrow text-center">
                                 You clicked tab 1: Lorem ipsum dolor sit amet, his ea mollis fabellas principes. Quo mazim facilis tincidunt ut, utinam saperet facilisi an vim.
-                                <div class="perl_customer" id="perlcustomer"></div>
+                                <!-- <div class="perl_customer" id="perlcustomer"></div> -->
+                                <div id="agentInfo1" class="jumbotron perl_customer" ></div>
+
 
                             </div>
                             
@@ -164,7 +165,9 @@
                         <div class="tab-pane fade" id="tabTwoContent">
                             <div class="narrow text-center">
                                 You clicked tab 2: Lorem ipsum dolor sit amet, his ea mollis fabellas principes. Quo mazim facilis tincidunt ut, utinam saperet facilisi an vim.
-                                <div class="perl_customer" id="perlcustomer"></div>
+                                <!-- <div class="perl_customer" id="perlcustomer"></div> -->
+                                <div id="agentInfo2" class="jumbotron perl_customer" ></div>
+
 
                             </div>
                             
@@ -174,7 +177,9 @@
                         <div class="tab-pane fade" id="tabThreeContent">
                             <div class="narrow text-center">
                                 You clicked tab 3: Lorem ipsum dolor sit amet, his ea mollis fabellas principes. Quo mazim facilis tincidunt ut, utinam saperet facilisi an vim.
-                                <div class="perl_customer" id="perlcustomer"></div>
+                                <!-- <div class="perl_customer" id="perlcustomer"></div> -->
+                                <div id="agentInfo3" class="jumbotron perl_customer" ></div>
+
 
                             </div>
                             
@@ -185,7 +190,9 @@
                         <div class="tab-pane fade" id="tabFourContent">
                             <div class="narrow text-center">
                                 You clicked tab 4: Lorem ipsum dolor sit amet, his ea mollis fabellas principes. Quo mazim facilis tincidunt ut, utinam saperet facilisi an vim.
-                                <div class="perl_customer" id="perlcustomer"></div>
+                                <!-- <div class="perl_customer" id="perlcustomer"></div> -->
+                                <div id="agentInfo4" class="jumbotron perl_customer" ></div>
+
 
                             </div>
                             
@@ -195,7 +202,7 @@
                         <div class="tab-pane fade" id="tabFiveContent">
                             <div class="narrow text-center">
                                 You clicked tab 5:Lorem ipsum dolor sit amet, his ea mollis fabellas principes. Quo mazim facilis tincidunt ut, utinam saperet facilisi an vim.
-                                <div id="agentInfo" class="jumbotron perl_customer" style="display: none;"></div>
+                                <div id="agentInfo5" class="jumbotron perl_customer" ></div>
 
                             </div>
                         </div>
@@ -231,10 +238,10 @@
                     font-weight:400;
                     }
 
-                    .container{
-                    width: 70%;
-                    min-width: 368px;
-                    }
+                  .container {
+                     max-width: 1360px;
+                     padding: 0;
+                  }
 
                     .footer{
                     background-color: #00a4e4;
@@ -279,9 +286,16 @@
                         position: relative;
                         /* border-bottom: 0; */
                         /* width: 80%; */
-                        margin: -68px auto;
+                        /* margin: -68px auto; */
                         margin-bottom: 0;
                         box-sizing: border-box;
+                    }
+
+                    .board-inner{
+                        border-spacing: 0px;
+                        position: relative;
+                        top: -33px;
+                        
                     }
 
                    
