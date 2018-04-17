@@ -149,7 +149,7 @@ function getFormFields() {
         event.preventDefault();
         var zipvalue = $('#txtZipCode').val();
         console.log(zipvalue);
-        var getZip;
+        var getZip,noZipArr;
         var myArray = getZipCodeArray();
         function search(nameKey, myArray){
            for (var i=0; i < myArray.length; i++) {
@@ -168,13 +168,19 @@ function getFormFields() {
 
            }
            if(getZip == null || getZip == "" || getZip == undefined || getZip == "undefined"){
-          // $('#txtZipCode').append("<p>Hello</p>");
-            $('#errorZip').text("YOUR ZIP CODE IS NOT ELIGIBLE");
-           } else {
-                $('#errorZip').text("");
-           }        
+           var noZipData = noZip();
+            console.log("this is no zipdata+", noZipData);
+            var noperlzip = JSON.stringify(noZipData);
+            setCookie("perl-custumer-care", noperlzip);
+            getFields();
+           
+          }     
        }
-       var resultObject = search(zipvalue, myArray);
+       if(zipvalue !== "" || zipvalue !== null || zipvalue !== undefined){
+        var resultObject = search(zipvalue, myArray);
+
+       }
+
 
     });
 
@@ -376,9 +382,42 @@ function getAgentInfo() {
     var perldata = getCookie('perl-custumer-care');
     var perlCustumerData = JSON.parse(perldata);
     console.log("this is perl-customer-dare data+" + " " + perlCustumerData);
-
-    var perlName = perlCustumerData.Name;
+    
     var perlZip = perlCustumerData.Zip;
+    if(perlZip == null || perlZip == "" || perlZip == undefined){
+
+        console.log("this came into no zip");
+        var noziplHeader = perlCustumerData.Header;
+        var noziplImage = perlCustumerData.Image;
+        var noziplTele = perlCustumerData.Telephone;
+        var noziplName = perlCustumerData.Name;
+        var noziplDescription = perlCustumerData.Description;
+        
+     var z = '<div class="contact">';
+     z += '<div class="content">';
+     z += '<h3>' + noziplHeader + '</h3>';
+     //The image path has to change in AEM
+     z += '<img src="../../dotcom/images/SalesRep.jpg">';
+     z += '<h3>' + noziplName  + '</h3>';
+     z += '<h3>' + noziplTele  + '</h3>';
+     z += '<h3>' + noziplDescription  + '</h3>';
+     z += '</div>';
+     z += '</div>';
+
+
+     $("#agentInfo1").append(z);
+     $("#agentInfo2").append(z);
+     $("#agentInfo3").append(z);
+     $("#agentInfo4").append(z);
+     $("#agentInfo5").append(z);
+        
+
+        
+
+    }else{
+
+        var perlName = perlCustumerData.Name;
+   
     var perlTelephone = perlCustumerData.Telephone;
     var perlRegion = perlCustumerData.Region;
     var perlHeader = perlCustumerData.Header;
@@ -423,6 +462,9 @@ function getAgentInfo() {
     $("#agentInfo3").append(k);
     $("#agentInfo4").append(k);
     $("#agentInfo5").append(k);
+
+    }
+    
 }
 
 
