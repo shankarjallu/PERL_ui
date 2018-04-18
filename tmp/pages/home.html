@@ -43,6 +43,7 @@
 <script src="../../dotcom/js/src/lib/underscore-min-1.4.2.js"></script>
 <script src="../../dotcom/js/src/lib/jquery.history.js"></script>
 <script src="../../dotcom/js/src/lib/script.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/jquery.validate.js"></script>
 <!-- /build -->
 
 
@@ -67,142 +68,223 @@
 </head>
 <body>
     
-<!DOCTYPE html>
-<html lang="en">
-   
-       <body>
-        <div class="container">
-            
-            <section>
-                    <div class="page-header" >
-                        <h1>Welcome to your personal Medicare website.</h1>
-                        <p>The easy way to stay one step ahead of retirement and your transition to Medicare.</p>
-                    </div>
-                <form name="frmSignUp" action="">
-                    <div class="row" >
-                        <h4 class="form-header">Enter your info to get your personalized Medicare Timeline.</h4>
-                                    <div class="col-sm-5">
-                                        <div class="form-group">
-                                            <label for="firstName">First Name</label>
-                                            <input type="text" class="form-control" id="txtFirstName" required>
-                                        </div>
-                                        <div class="form-group">
-                                            <label for="birthDate">Birth Month/Year</label>
-                                            <label class="form-label">
-                                                <a href="#" class="tooltiptext" data-toggle="tooltip" data-placement="top" title="Birth Month/Year is used to calculate your age in order to generate your timeline." data-placement="right">Why is this needed?</a>
-                                            </label>
-                                            <input type="month" class="form-control" id="txtBirthDate" placeholder="MM/YYYY" required>
-                                        </div>
-                                        <div class="form-group">
-                                            <label for="zipCode">ZIP Code</label>
-                                            <input type="number" class="form-control" id="txtZipCode" pattern="^[0-9]*$" required>
-                                            <span id="errorZip" class="error"></span>
-                                        </div>
-                                        <div class="form-group">
-                                            <label for="retirementPlans">Retirement Plans</label>
-                                            <select class="form-control" id="exampleFormControlSelect1" placeholder="Select one" onchange="checkSelectedOption();" required>
-                                                <option autofocus value="">Select One</option>
-                                                <option value="nodefplan">No Definite plans</option>
-                                                <option value="at65">Retiring at 65</option>
-                                                <option value="after65">Retiring after 65</option>
-                                            </select>
-                                        </div>
-                                        <div class="form-group div-radio" id="divRetirementDate" onchange="checkRetirementDateOption();">
-                                            <label for="zipCode">Retirement Date</label>
-                                            <div class="radio" class="form-radio">
-                                                <label class="radio-inline"><input type="radio" name="retirementDate" value="nodefdate" checked >No Definite Date</label>
-                                                <label class="radio-inline"><input type="radio" name="retirementDate" value="defdate">On a Specific Date</label>
+        <!DOCTYPE html>
+        <html lang="en">
+        
+            <body>
+                <div class="container">
+                    
+                    <section>
+                            <div class="page-header" >
+                                <h1>Welcome to your personal Medicare website.</h1>
+                                <p>The easy way to stay one step ahead of retirement and your transition to Medicare.</p>
+                            </div>
+                        <form name="frmSignUp" action="" id="frmSignUp">
+                            <div class="row" >
+                                <h4 class="form-header">Enter your info to get your personalized Medicare Timeline.</h4>
+                                            <div class="col-sm-5">
+                                                <div class="form-group">
+                                                    <label for="txtFirstName">First Name</label>
+                                                    <input type="text" class="form-control" id="txtFirstName" name="txtFirstName" required >
+                                                </div>
+                                                <div class="form-group">
+                                                    <label for="birthDate">Birth Month/Year</label>
+                                                    <label class="form-label">
+                                                        <a href="#" class="tooltiptext" data-toggle="tooltip" data-placement="top" title="Birth Month/Year is used to calculate your age in order to generate your timeline." data-placement="right">Why is this needed?</a>
+                                                    </label>
+                                                    <input type="text" class="form-control" id="txtBirthDate" name="txtBirthDate" placeholder="MM/YYYY" required>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label for="zipCode">ZIP Code</label>
+                                                    <input type="number" class="form-control" id="txtZipCode" name = "txtZipCode" pattern="^[0-9]*$" required>
+                                                    <span id="errorZip" class="error"></span>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label for="retirementPlans">Retirement Plans</label>
+                                                    <select class="form-control" id="exampleFormControlSelect1" name = "exampleFormControlSelect1" placeholder="Select one" onchange="checkSelectedOption();" required>
+                                                        <option autofocus value="">Select One</option>
+                                                        <option value="nodefplan">No Definite plans</option>
+                                                        <option value="at65">Retiring at 65</option>
+                                                        <option value="after65">Retiring after 65</option>
+                                                    </select>
+                                                </div>
+                                                <div class="form-group div-radio" id="divRetirementDate" onchange="checkRetirementDateOption();">
+                                                    <label for="zipCode">Retirement Date</label>
+                                                    <div class="radio" class="form-radio">
+                                                        <label class="radio-inline"><input type="radio" name="retirementDate" value="nodefdate" checked >No Definite Date</label>
+                                                        <label class="radio-inline"><input type="radio" name="retirementDate" value="defdate">On a Specific Date</label>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group div-retirement-month" id="divRetirementMonth">
+                                                    <label for="birthDate">Retirement Month/Year</label>
+                                                    <input type="text" class="form-control" name = "txtRetirementDate" id="txtRetirementDate" placeholder="MM/YYYY" required>
+                                                </div>
                                             </div>
-                                        </div>
-                                        <div class="form-group div-retirement-month" id="divRetirementMonth">
-                                            <label for="birthDate">Retirement Month/Year</label>
-                                            <input type="month" class="form-control" id="txtRetirementDate" placeholder="MM/YYYY" >
-                                        </div>
-                                    </div>
-                    </div>
-                    <div class="row div-get-timeline" >
-                        <button type="submit" class="btn btn-warning btn-get-timeline" >
-                            <span class="glyphicons glyphicons-chevron-right"></span>Get Timeline
-                        </button>
-                    </div>
-                </form>
-            </section>
-           
-           
-        </div>
-       
-        <style>
-            .error{
-                color: red;
-            }
-            body{
-                font-family: 'segoe ui';
-            }
-            .popover-content {
-            width:300px;
-            padding:10px;
-            }
-            label{
-            font-weight:400;
-            }
-            .container{
-            width: 70%;
-            min-width: 368px;
-            }
-            section{
-            background-color: #00a4e4;
-            padding: 10px;
-            }
-            .page-header{
-            color:white;
-            border-bottom:none;
-            width: 85%;
-            margin: 0 auto;
-            }
-            .row{
-            background-color:white;
-            margin: auto;
-            width: 90%;
-            padding: 4px;
-            border-radius:10px 10px 0px 0px;
-            }
-            .form-header{
-            margin-left:13px
-            }
-            .tooltiptext{
-            color:grey;
-            text-decoration: underline;
-            }
-            .form-label{
-            float:right;
-            font-weight:100;
-            }
-            .form-radio{
-            margin: 0 auto;
-            border: 1px solid lightgrey;
-            border-radius: 3px;
-            padding: 5px;
-            }
-            .div-radio{
-            display:none;
-            }
-            .div-retirement-month{
-            display:none;
-            }
-            .div-get-timeline
-            {
-            background-color:white;
-            margin: auto;
-            width: 90%;
-            padding: 10px;
-            border-radius: 0px 0px 10px 10px;
-            }
-            .btn-get-timeline{
-            float: right;
-            }
+                            </div>
+                            <div class="row div-get-timeline" >
+                                <button type="submit" class="btn btn-warning btn-get-timeline" >
+                                    <span class="glyphicons glyphicons-chevron-right"></span>Get Timeline
+                                </button>
+                            </div>
+                        </form>
+                    </section>
+                
+                
+                </div>
+            
+                <style>
+                    .error{
+                        color: red;
+                    }
+                    body{
+                        font-family: 'segoe ui';
+                    }
+                    .popover-content {
+                    width:300px;
+                    padding:10px;
+                    }
+                    label{
+                    font-weight:400;
+                    }
+                    .container{
+                    width: 70%;
+                    min-width: 368px;
+                    }
+                    section{
+                    background-color: #00a4e4;
+                    padding: 10px;
+                    }
+                    .page-header{
+                    color:white;
+                    border-bottom:none;
+                    width: 85%;
+                    margin: 0 auto;
+                    }
+                    .row{
+                    background-color:white;
+                    margin: auto;
+                    width: 90%;
+                    padding: 4px;
+                    border-radius:10px 10px 0px 0px;
+                    }
+                    .form-header{
+                    margin-left:13px
+                    }
+                    .tooltiptext{
+                    color:grey;
+                    text-decoration: underline;
+                    }
+                    .form-label{
+                    float:right;
+                    font-weight:100;
+                    }
+                    .form-radio{
+                    margin: 0 auto;
+                    border: 1px solid lightgrey;
+                    border-radius: 3px;
+                    padding: 5px;
+                    }
+                    .div-radio{
+                    display:none;
+                    }
+                    .div-retirement-month{
+                    display:none;
+                    }
+                    .div-get-timeline
+                    {
+                    background-color:white;
+                    margin: auto;
+                    width: 90%;
+                    padding: 10px;
+                    border-radius: 0px 0px 10px 10px;
+                    }
+                    .btn-get-timeline{
+                    float: right;
+                    }
 
-        </style>
-    </body>
+                </style>
+                <script>
+                    $("#frmSignUp").validate(
+                        {
+                
+                        rules: {
+                        
+                        txtFirstName: "required", 
+                        txtBirthDate: {
+                            dateFormat : true,
+                            lessThanToday : true
+                        },
+                        txtRetirementDate : {
+                            dateFormat : true,
+                            morethantoday : true
+                        },
+                        txtZipCode : {
+                            
+                            required : true,
+                            minlength : 5,
+                            maxlength:5
+                        } ,
+                        exampleFormControlSelect1 : "required"
+                    },
+                messages: {
+                    txtFirstName: "Enter your firstname",
+                    txtBirthDate : {
+                        dateFormat : "Please enter a complete birth month/year",
+                        required : "Please provide a month/year",
+                        lessThanToday : "Please provide a date that is in the past"
+                    },
+                    txtRetirementDate : {
+                        dateFormat : "Please enter a complete retirement month/year",
+                        required : "Please provide a month/year",
+                        morethantoday : "Please provide a date that will be in the future"
+                    },
+                        
+                    txtZipCode : {
+                        required :"Please provide a  ZIP code.",
+                        minlength: "Please enter at least five characters",
+                        maxlength : "Please do not enter more than five characters"
+                    },
+                    exampleFormControlSelect1 : "Please select your retirement plans"
+                },
+                });    
+
+
+                jQuery.validator.addMethod("dateFormat", 
+                    function(value, element) { 
+                        return value.match(/^(0?[1-9]|1[012])[\/\-]\d{4}$/);
+                },
+                 "");
+                 jQuery.validator.addMethod("lessThanToday", 
+                 function(value,element) {
+                     var data = $('#txtBirthDate').val();
+                     var split_field = data.split('/');
+
+                    console.log("***********");
+                    console.log(split_field[0]);
+                    console.log(split_field[1]);
+                    var input_month = split_field[0];
+                    var input_year = split_field[1];
+                    var curent_year = new Date().getFullYear();
+                    var current_month = new Date().getMonth();
+                    return ( (curent_year > input_year));
+                },
+                 jQuery.validator.format("Value should be less than today"));
+
+                 jQuery.validator.addMethod("morethantoday", 
+                 function(value,element) {
+                     var data = $('#txtRetirementDate').val();
+                     var split_field = data.split('/');
+                    var input_month = split_field[0];
+                    var input_year = split_field[1];
+                    var curent_year = new Date().getFullYear();
+                    var current_month = new Date().getMonth();
+                    
+                    return ( (curent_year <= input_year));
+                },
+                 jQuery.validator.format("Value should be more than today"));
+                 //debugger;
+                </script>
+            </body>
 </html>     
     
    
