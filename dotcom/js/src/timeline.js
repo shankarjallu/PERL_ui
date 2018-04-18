@@ -2,17 +2,17 @@
     $(document).ready(function() {
         getFormFields();
         // tooltip
-        //   $('[data-toggle="tooltip"]').tooltip(); 
-        $('[data-toggle="popover"]').popover();
+           $('[data-toggle="tooltip"]').tooltip(); 
+      
 
        
-            $().vEllipsis({
-              'expandLink': true,
-              'collapseLink': true,
-              'lines': 2
+            // $().vEllipsis({
+            //   'expandLink': true,
+            //   'collapseLink': true,
+            //   'lines': 2
 
-            //   'animationTime': '2000',
-            });
+            // //   'animationTime': '2000',
+            // });
          
 
         function findMonthsTill65(currentYear, birthYear, birthMonth, currentMonth) {
