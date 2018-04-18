@@ -75,7 +75,7 @@ module.exports = function(grunt) {
 '<%= pkg.js_src_path %>lib/remodal.min.js',
 '<%= pkg.js_src_path %>lib/slick.min.js',
 // '<%= pkg.js_src_path %>lib/jquery-ui.min.js',               
-// '<%= pkg.js_src_path %>lib/jquery-ui-timepicker-addon.js',
+ '<%= pkg.js_src_path %>lib/jquery.vEllipsis.min.js',
 
 '<%= pkg.js_src_path %>lib/jquery.form.js',
 '<%= pkg.js_src_path %>lib/jquery.ba-postMessage.js',

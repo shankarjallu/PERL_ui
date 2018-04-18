@@ -5,6 +5,15 @@
         //   $('[data-toggle="tooltip"]').tooltip(); 
         $('[data-toggle="popover"]').popover();
 
+       
+            $().vEllipsis({
+              'expandLink': true,
+              'collapseLink': true,
+              'lines': 2
+
+            //   'animationTime': '2000',
+            });
+         
 
         function findMonthsTill65(currentYear, birthYear, birthMonth, currentMonth) {
             var timeTo65 = 65 - (currentYear - birthYear);
@@ -507,7 +516,7 @@
 
                 if (perladviserDes !== "" && perladviserDes !== null && perladviserDes !== "undefined" && perladviserDes !== undefined) {
 
-                    k += '<p>' + perladviserDes + '</p>';
+                    k += '<p class="v-ellipsis" data-expandlink="Read More" data-collapselink="Read Less">' + perladviserDes + '</p>';
                 }
                 k += '</div>';
                 k += '</div>';
