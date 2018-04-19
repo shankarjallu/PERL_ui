@@ -6,21 +6,25 @@
             
             <title>Personalized Timeline</title>
         </head>
-        <body onload="getCookie();">
+        <body>
         <div class="container">
             <header>
                 <img src="../../dotcom/images/highmarkLogo.png">
             </header>
             <section class="section-timeline">
-               
-                <div class="row div-header">
-                    <div class="col-sm-6">
-                        <div class="page-header">
-                            <h1 id="welcome-name">Welcome, </h1>
-                            <p>On this site, you'll find helpful information to make your transition to Medicare easier- including your personalized timeline of steps to take.</p>
-                            <p><b>Estimated Retirement Date:</b> <span id="estRetDate"></span> <a href="#">Change</a></p>
-                        </div>
-                    </div>
+               <div class="row div-header">
+                   <div class="col-sm-6">
+                <div class="page-header">
+                    <h1 id="welcome-name">Welcome, </h1>
+                    <p>On this site, you'll find helpful information to make your transition to Medicare easier- including your personalized timeline of steps to take.</p>
+                    <p><b>Estimated Medicare Start Date:</b>
+                        <a data-toggle="tooltip" href="#" title="Based on the retirement information you provided, this is approximate date when your Medicare coverage would start." data-placement="top">
+                            <span class="glyphicon glyphicon-question-sign"></span>
+                        </a>
+                        <br/>
+                        <span id="estRetDate"></span> <a href="#">Change</a></p>
+                </div>
+                </div>
                 </div>
               
                 <div class="board">
@@ -31,7 +35,11 @@
                                 <a id="tabOne" href="#tabOneContent" data-toggle="tab"  >
                                       <span class="round-tabs one">
                                       </span>
-                                    <label id='label0' class="label label-default label-tab"></label>
+                                    <!-- <label id='label0' class="label label-default label-tab"></label> -->
+                                    <div class="div-tab-header">
+                                        <label id="label0" class="label label-default label-tab">Nov 2017</label>
+                                        <label class="label label-default label-tab">Explore benefits</label>
+                                    </div>
                                 </a>
                             </li>
 
@@ -39,7 +47,11 @@
                                 <a id="tabTwo" href="#tabTwoContent" data-toggle="tab" >
                                      <span class="round-tabs two">
                                      </span>
-                                    <label id='label1' class="label label-default label-tab" ></label>
+                                    <!-- <label id='label1' class="label label-default label-tab" ></label> -->
+                                    <div class="div-tab-header">
+                                        <label id="label1" class="label label-default label-tab">Nov 2017</label>
+                                        <label class="label label-default label-tab">Explore benefits</label>
+                                    </div>
                                 </a>
                             </li>
 
@@ -47,7 +59,11 @@
                                 <a id="tabThree" href="#tabThreeContent" data-toggle="tab" >
                                      <span class="round-tabs three">
                                      </span>
-                                     <label id='label2' class="label label-default label-tab" ></label>
+                                     <!-- <label id='label2' class="label label-default label-tab" ></label> -->
+                                     <div class="div-tab-header">
+                                        <label id="label2" class="label label-default label-tab">Nov 2017</label>
+                                        <label class="label label-default label-tab">Explore benefits</label>
+                                    </div>
                                 </a>
                             </li>
 
@@ -55,7 +71,11 @@
                                 <a id="tabFour" href="#tabFourContent" data-toggle="tab"  >
                                      <span class="round-tabs four">
                                      </span>
-                                    <label id='label3' class="label label-default label-tab" ></label>
+                                    <!-- <label id='label3' class="label label-default label-tab" ></label> -->
+                                    <div class="div-tab-header">
+                                        <label id="label3" class="label label-default label-tab">Nov 2017</label>
+                                        <label class="label label-default label-tab">Explore benefits</label>
+                                    </div>
                                 </a>
                             </li>
 
@@ -63,7 +83,11 @@
                                 <a id="tabFive" href="#tabFiveContent" data-toggle="tab" >
                                      <span class="round-tabs five">
                                      </span>
-                                    <label id='label4' class="label label-default label-tab" ></label>
+                                    <!-- <label id='label4' class="label label-default label-tab" ></label> -->
+                                    <div class="div-tab-header">
+                                        <label id="label4" class="label label-default label-tab">Nov 2017</label>
+                                        <label class="label label-default label-tab">Explore benefits</label>
+                                    </div>
                                 </a>
                             </li>
 
@@ -71,7 +95,11 @@
                                 <a id="tabSix" href="#tabSixContent" data-toggle="tab" >
                                      <span class="round-tabs six">
                                      </span>
-                                     <label id='label5' class="label label-default label-tab" ></label>
+                                     <!-- <label id='label5' class="label label-default label-tab" ></label> -->
+                                     <div class="div-tab-header">
+                                        <label id="label5" class="label label-default label-tab">Nov 2017</label>
+                                        <label class="label label-default label-tab">Explore benefits</label>
+                                    </div>
                                 </a>
                             </li>
                         </ul>
@@ -161,6 +189,23 @@
                     body{
                         font-family: 'segoe ui';
                     }
+                    span.round-tabs.one.visited:before{
+                        content:"\2713";
+                        position:relative;
+                        top:-31px;
+                        font-size:14px;
+                    }
+
+                   .div-tab-header{
+                    border: 1px solid white;
+                    width: 94px;
+                    position: relative;
+                    top: -48px;
+                    left: -37px;
+                    text-align: center;
+                    display:  block;
+
+                   }
 
                     .popover-content {
                     width:300px;
@@ -189,7 +234,7 @@
                     }
 
                     .div-header{
-                    background-color: #00a4e4;
+                    background-color: #00b4f7;
                     }
 
                     .page-header{
@@ -217,12 +262,24 @@
 
                     .board .nav-tabs {
                         position: relative;
-                        /* border-bottom: 0; */
-                        /* width: 80%; */
-                        margin: -68px auto;
+                        
                         margin-bottom: 0;
                         box-sizing: border-box;
                     }
+                    .page-header{
+                    color:white;
+                    border-bottom:none;
+                    width: 85%;
+                    margin: 0 auto;
+                    padding:15px 15px 100px 15px;
+                    }
+
+                    .board-inner
+{
+    border-spacing: 0px;
+    position: relative;
+    top: -77px;
+}
 
                    
 
@@ -232,15 +289,15 @@
                     }
 
                     .liner{
-                        height: 2px;
-                        background: #00a4e4;
-                        position: absolute;
-                        width: 80%;
-                        margin: 0 auto;
-                        left: -16px;
-                        right: 0;
-                        top: 50%;
-                        z-index: 1;
+                        height: 4px;
+    background: #f5f5f5;
+    position: absolute;
+    width: 80%;
+    margin: 0 auto;
+    left: -16px;
+    right: 0;
+    top: 48%;
+    z-index: 1;
                     }
 
                     .nav-tabs>li>a
@@ -271,73 +328,86 @@
                     }
 
                     .label-tab{
-                    color: #00a4e4;
+                    color: #fcf8e3;
                     position: relative;
-                    top: 18px;
+                   
                     text-align: left;
-                    left: -17px;
+                  
                     background: transparent;
                     }
 
                     span.round-tabs.one{
-                        color: #00a4e4;border: 2px solid #00a4e4;
+                        color: #00b4f7;
+                        border: 2px solid #00a4e4;
                     }
 
                     li.active span.round-tabs.one{
-                        background: #03d0fffa;
-                        border: 2px solid #00cfff;
+                    
                         color: #00a4e4;
+
+                        background: #ff6003;
+                      border: 2px solid #f5f5f5;
                     }
 
                     span.round-tabs.two{
-                        color: #00a4e4;border: 2px solid #00a4e4;
+                        color: #00b4f7;
+                        border: 2px solid #00a4e4;
                     }
 
                     li.active span.round-tabs.two{
-                        background: #03d0fffa;
-                        border: 2px solid #00cfff;
                         color: #00a4e4;
+
+background: #ff6003;
+border: 2px solid #f5f5f5;
                     }
 
                     span.round-tabs.three{
-                        color: #00a4e4;border: 2px solid #00a4e4;
+                        color: #00b4f7;
+                        border: 2px solid #00a4e4;
                     }
 
                     li.active span.round-tabs.three{
-                        background: #03d0fffa;
-                        border: 2px solid #00cfff;
                         color: #00a4e4;
+                      background: #ff6003;
+                      border: 2px solid #f5f5f5;
                     }
 
                     span.round-tabs.four{
-                        color: #00a4e4;border: 2px solid #00a4e4;
+                        color: #00b4f7;
+                        border: 2px solid #00a4e4;
                     }
 
                     li.active span.round-tabs.four{
-                        background: #03d0fffa;
-                        border: 2px solid #00cfff;
                         color: #00a4e4;
+                      background: #ff6003;
+                      border: 2px solid #f5f5f5;
                     }
 
                     span.round-tabs.five{
-                        color: #00a4e4;border: 2px solid #00a4e4;
+                        color: #00b4f7;
+                        border: 2px solid #00a4e4;
                     }
 
                     li.active span.round-tabs.five{
-                        background: #03d0fffa;
-                        border: 2px solid #00cfff;
                         color: #00a4e4;
+                      background: #ff6003;
+                      border: 2px solid #f5f5f5;
                     }
 
                     span.round-tabs.six{
-                        color: #00a4e4;border: 2px solid #00a4e4;
+                        color: #00b4f7;
+                        border: 2px solid #00a4e4;
                     }
 
                     li.active span.round-tabs.six{
-                        background: #03d0fffa;
-                        border: 2px solid #00cfff;
                         color: #00a4e4;
+                      background: #ff6003;
+                      border: 2px solid #f5f5f5;
                     }
+
+                    #label0,#label1,#label2,#label3,#label4,#label5{
+                     text-transform:uppercase;
+                     }
 
                     
                     .nav-tabs > li {
@@ -399,7 +469,21 @@
                         background-color:transparent;
                     }
 
+                    li.active a div.div-tab-header{background:#0575ae;}
+
                     @media( max-width : 585px ){
+
+                        .label-tab{
+                  color: #fcf8e3;
+                position: relative;
+                text-align: center;
+                background: transparent;
+                display: block;
+                    }
+
+                    .div-tab-header{
+                    height:37px;
+                    }
 
                     .board {
                     width: 90%;
@@ -433,6 +517,16 @@
                         padding:12px 20px;
                     }
                 }
+
+
+@media( max-width : 983px ){
+
+li a div.div-tab-header{display:none;}
+li.active a div.div-tab-header{display:block;}
+
+}
+
+
             </style>
 
         </body>
