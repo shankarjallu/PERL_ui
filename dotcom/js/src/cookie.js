@@ -24,15 +24,15 @@ function deleteCookie(cname){
 function checkSelectedOption()
             {
                 var selectedValue=document.getElementById('exampleFormControlSelect1');
-                if(selectedValue.value=="at65" || selectedValue.value=="after65")
+                if(selectedValue.value=="after65")
                 {
-                    $("#divRetirementDate").fadeIn(1000);
+                    $("#divRetirementDate").fadeIn(500);
                     $("[name|='retirementDate']").attr("required");
                 }
                 else
                 {
-                    $("#divRetirementDate").fadeOut(1000);
-                    $("#divRetirementDate").removeAttr("required");
+                    $("#divRetirementDate").fadeOut(500);
+                    $("[name|='retirementDate']").removeAttr("required");
                 }
             }
             function checkRetirementDateOption()
@@ -40,11 +40,11 @@ function checkSelectedOption()
                 var selectedValue=$("[name|='retirementDate']:checked").val();
                 if(selectedValue =="defdate")
                 {
-                    $("#divRetirementMonth").fadeIn(1000);
-                    $("#divRetirementMonth").attr("required");
+                    $("#divRetirementMonth").fadeIn(500);
+                    $("#txtRetirementDate").attr("required");
                 }
                 else
                 {
-                    $("#divRetirementMonth").fadeOut(1000);
-                    $("#divRetirementMonth").removeAttr("required");                }
+                    $("#divRetirementMonth").fadeOut(500);
+                    $("#txtRetirementDate").removeAttr("required");                }
             } 
