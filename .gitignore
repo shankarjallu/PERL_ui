@@ -4,3 +4,5 @@ npm-debug.log
 .DS_Store
 dotcom/js/bundle/highmark-desktop-base.js
 dotcom/js/bundle/lib.js
+dotcom/js/bundle/highmark-base.min.js
+dotcom/js/bundle/lib.min.js
