@@ -1,4 +1,4 @@
-# PERL_ui
+# PURL_ui
 
 
-Highmark Pearl Timeline project
+Highmark PURL Timeline project

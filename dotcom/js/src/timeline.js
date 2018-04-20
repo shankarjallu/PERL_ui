@@ -5,6 +5,14 @@
         $('[data-toggle="tooltip"]').tooltip();
 
 
+        // $().vEllipsis({
+        //   'expandLink': true,
+        //   'collapseLink': true,
+        //   'lines': 2
+
+        // //   'animationTime': '2000',
+        // });
+
         function findMonthsTill65(currentYear, birthYear, birthMonth, currentMonth) {
             var timeTo65 = 65 - (currentYear - birthYear);
             var monthsTill65 = 0;
@@ -21,6 +29,8 @@
                 return monthsTill65;
             }
         }
+
+
 
         function findMonthsTillRetirement(retirementYear, currentYear, retirementMonth, currentMonth) {
             if (retirementYear == "" || retirementYear == null) {
@@ -90,11 +100,11 @@
                 }
 
             } else {
-                if(monthsTillRetirement <= 0 && monthsTillRetirement != false){
-                   console.log("Congrats  page!");
+                if (monthsTillRetirement <= 0 && monthsTillRetirement != false) {
+                    console.log("Congrats  page!");
                     $("#tabSix").parent("li").addClass("active");
                     $("#tabSixContent").addClass("active in");
-                    return true; 
+                    return true;
                 }
                 if (monthsTill65 > 15) {
                     console.log("13 months page!, more than 15 months!");
@@ -349,45 +359,20 @@
                 $("#welcome-name").append(name);
                 if (retirementPlan != 'at65') {
                     $("#estRetDate").text(monthObj[parseInt(retirementMonth)] + " " + retirementYear);
-                }
-                else{
+                } else {
                     $("#estRetDate").text(monthObj[parseInt(dobMonth)] + " " + (dobYear + 65));
                 }
                 checkAndDisplayContent(monthsTill65, monthsTillRetirement, retirementPlan, retirementDateOption);
                 return true;
             }
 
-            // if (monthsTill65 > 15) {
-            //     for (var i = 0; i < 6; i++) {
-            //         $('#label'+i+'').text("Step " + (i + 1));
-            //     }
-
-            //     $("#welcome-name").text(name);
-            //     $("#estRetDate").text(monthObj[dobMonth] + " " + (dobYear + 65));
-
-            //     checkAndDisplayContent(monthsTill65, monthsTillRetirement, retirementPlan);
-            //     return true;
-
-            // }
-
-            // if (monthsTill65 <= 15 && retirementPlan == 'nodefplan') {
-            //     for (var j = 0; j < 6; j++) {
-            //         $('#label'+j+'').text("Step " + (j + 1));
-            //     }
-            //     $("#welcome-name").append(name);
-            //     $("#estRetDate").text(monthObj[dobMonth] + " " + (dobYear + 65));
-
-            //     checkAndDisplayContent(monthsTill65, monthsTillRetirement, retirementPlan);
-            //     return true;
-            // }
 
             if ((monthsTill65 <= 15 && (retirementYear != null && retirementYear != "")) ||
                 retirementPlan == 'at65') {
                 $("#welcome-name").append(name);
                 if (retirementPlan != 'at65') {
                     $("#estRetDate").text(monthObj[parseInt(retirementMonth)] + " " + retirementYear);
-                }
-                else{
+                } else {
                     $("#estRetDate").text(monthObj[parseInt(dobMonth)] + " " + (dobYear + 65));
                 }
                 timelineGenerator(retirementPlan);
@@ -435,31 +420,46 @@
             return false;
         }
 
-
-
         function getAgentInfo() {
             var perldata = getCookie('perl-custumer-care');
             var perlCustumerData = JSON.parse(perldata);
             console.log("this is perl-customer-dare data+" + " " + perlCustumerData);
 
             var perlZip = perlCustumerData.Zip;
-            if (perlZip == null || perlZip == "" || perlZip == undefined) {
+            var perlAdvisornotavail = perlCustumerData.Advisornotavail;
+            var perladviserDes = perlCustumerData.advisordescritption;
+            var perlTelephone = perlCustumerData.Telephone;
+            var perlRegion = perlCustumerData.Region;
+            var perlHeader = perlCustumerData.Header;
+            var perlImage = perlCustumerData.Image;
+            var perlEmail = perlCustumerData.email;
+            var perlStreet = perlCustumerData.Street;
+            var perlStreetaddress = perlCustumerData.Streetaddress;
+
+            var nozipHeader = perlCustumerData.Header;
+            var nozipImage = perlCustumerData.Image;
+            var nozipTele = perlCustumerData.Telephone;
+            var nozipName = perlCustumerData.Name;
+            var nozipDescription = perlCustumerData.Description;
+
+
+
+            var perlName = perlCustumerData.Name;
+            if ((perlZip == null || perlZip == "" || perlZip == undefined) || (perlAdvisornotavail !== null && perlAdvisornotavail !== "undefined" && perlAdvisornotavail !== undefined)) {
 
                 console.log("this came into no zip");
-                var noziplHeader = perlCustumerData.Header;
-                var noziplImage = perlCustumerData.Image;
-                var noziplTele = perlCustumerData.Telephone;
-                var noziplName = perlCustumerData.Name;
-                var noziplDescription = perlCustumerData.Description;
+
 
                 var z = '<div class="contact">';
                 z += '<div class="content">';
-                z += '<h3>' + noziplHeader + '</h3>';
+                z += '<h3>' + nozipHeader + '</h3>';
                 //The image path has to change in AEM
-                z += '<img src="../../dotcom/images/SalesRep.jpg">';
-                z += '<h3>' + noziplName + '</h3>';
-                z += '<h3>' + noziplTele + '</h3>';
-                z += '<h3>' + noziplDescription + '</h3>';
+                z += '<div class="contact_image">';
+                z += '<img src="' + nozipImage + '">';
+                z += '</div>';
+                z += '<h3>' + nozipName + '</h3>';
+                z += '<h3>' + nozipTele + '</h3>';
+                z += '<h3>' + perlAdvisornotavail + '</h3>';
                 z += '</div>';
                 z += '</div>';
 
@@ -475,14 +475,7 @@
 
             } else {
 
-                var perlName = perlCustumerData.Name;
-
-                var perlTelephone = perlCustumerData.Telephone;
-                var perlRegion = perlCustumerData.Region;
-                var perlHeader = perlCustumerData.Header;
                 var result = perlHeader.split(".");
-
-
                 var k = '<div class="contact">';
                 k += '<div class="content">';
                 if (result) {
@@ -496,7 +489,7 @@
                 k += '<div class="row">';
                 k += '<div class="col-sm-4">';
                 k += '<div class="contact_image">';
-                k += '<img src="../../dotcom/images/highmarkLogo.png">';
+                k += '<img src="' + perlImage + '">';
                 k += '</div>';
                 k += '</div>';
                 k += '<div class="col-sm-6">';
@@ -505,12 +498,27 @@
                 k += '<label>' + "phone:" + '</label>';
                 k += '<span>' + perlTelephone + '</span>';
                 k += '<br>';
-                k += '<label>' + "email:" + '</label>';
-                k += '<br>';
-                k += '<label>' + "Region:" + '</label>';
-                k += '<span>' + perlRegion + '</span>';
 
-                //    k += '<label>phone:</label>' +  '<span>' + + '</span><br>';
+                if (perlEmail !== null && perlEmail !== "" && perlEmail !== "undefined" && perlEmail !== undefined) {
+                    k += '<label>' + "email:" + '</label>';
+                    k += '<span>' + perlEmail + '</span>';
+
+                }
+
+                if (perlStreet !== null && perlStreet !== "" && perlStreet !== undefined && perlStreet !== "undefined") {
+                    k += '<label>' + "Location:" + '</label>';
+                    k += '<span>' + perlStreet + '</span>';
+                    k += '<br>';
+                    k += '<p>' + perlStreetaddress + '</p>';
+
+
+                }
+
+
+                if (perladviserDes !== "" && perladviserDes !== null && perladviserDes !== "undefined" && perladviserDes !== undefined) {
+
+                    k += '<p class="v-ellipsis" data-expandlink="Read More" data-collapselink="Read Less">' + perladviserDes + '</p>';
+                }
                 k += '</div>';
                 k += '</div>';
                 k += '</div>';
@@ -524,8 +532,8 @@
                 $("#agentInfo4").append(k);
                 $("#agentInfo5").append(k);
 
-            }
 
+            }
         }
 
 

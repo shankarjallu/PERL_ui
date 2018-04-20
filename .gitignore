@@ -2,3 +2,5 @@
 node_modules
 npm-debug.log
 .DS_Store
+dotcom/js/bundle/highmark-desktop-base.js
+dotcom/js/bundle/lib.js
