@@ -127,35 +127,35 @@
                 }
 
                 if (monthsTill65 <= 15 && retirementPlan == 'after65' &&
-                    monthsTillRetirement > 13 && monthsTillRetirement >= monthsTill65) {
+                    monthsTillRetirement > 13 ) {
                     console.log("13 months page!");
                     $("#tabOne").parent("li").addClass("active");
                     $("#tabOneContent").addClass("active in");
                     return true;
                 }
                 if (monthsTill65 <= 15 && retirementPlan == 'after65' &&
-                    monthsTillRetirement > 11 && monthsTillRetirement >= monthsTill65) {
+                    monthsTillRetirement > 11 ) {
                     console.log("12 months page!");
                     $("#tabTwo").parent("li").addClass("active");
                     $("#tabTwoContent").addClass("active in");
                     return true;
                 }
                 if (monthsTill65 <= 15 && retirementPlan == 'after65' &&
-                    monthsTillRetirement > 8 && monthsTillRetirement >= monthsTill65) {
+                    monthsTillRetirement > 8 ) {
                     console.log("9 months page!");
                     $("#tabThree").parent("li").addClass("active");
                     $("#tabThreeContent").addClass("active in");
                     return true;
                 }
                 if (monthsTill65 <= 15 && retirementPlan == 'after65' &&
-                    monthsTillRetirement > 5 && monthsTillRetirement >= monthsTill65) {
+                    monthsTillRetirement > 5 ) {
                     console.log("6 months page!");
                     $("#tabFour").parent("li").addClass("active");
                     $("#tabFourContent").addClass("active in");
                     return true;
                 }
                 if (monthsTill65 <= 15 && retirementPlan == 'after65' &&
-                    monthsTillRetirement > 0 && monthsTillRetirement >= monthsTill65) {
+                    monthsTillRetirement > 0 ) {
                     console.log("3 months page!");
                     $("#tabFive").parent("li").addClass("active");
                     $("#tabFiveContent").addClass("active in");
@@ -242,15 +242,13 @@
                 zipCode = $("#txtZipCode").val();
                 retirementPlan = $("#exampleFormControlSelect1").val();
                 retirementDateOption = $("input[name='retirementDate']:checked").val();
-                console.log("reitrement date option: " + retirementDateOption);
-                console.log("date of birth: " + dob);
-                var dobArray = dob.split('-');
-                var birthYear = dobArray[0];
-                var birthMonth = dobArray[1];
+                var dobArray = dob.split('/');
+                var birthYear = dobArray[1];
+                var birthMonth = dobArray[0];
                 retirementDate = $("#txtRetirementDate").val();
-                var retirementDateArray = retirementDate.split('-');
-                var retirementYear = retirementDateArray[0];
-                var retirementMonth = retirementDateArray[1];
+                var retirementDateArray = retirementDate.split('/');
+                var retirementYear = retirementDateArray[1];
+                var retirementMonth = retirementDateArray[0];
                 var today = new Date();
                 var currentMonth = today.getMonth() + 1;
                 var currentYear = today.getFullYear();
@@ -261,6 +259,10 @@
                     alert("retirement date should be future date!");
                     return false;
                 }
+                // if (monthsTillRetirement < monthsTill65) {
+                //     alert("your retirement date is " + (monthsTill65 - monthsTillRetirement) + " month(s) earlier than your actual retirement age!" );
+                //     return false;
+                // }
                 cookieObj.name = name;
                 cookieObj.dob = dob;
                 cookieObj.retirementDate = retirementDate;
@@ -306,12 +308,12 @@
                 "12": "Dec",
             };
 
-            var dobArray = dob.split('-');
-            var dobMonth = parseInt(dobArray[1]);
-            var dobYear = parseInt(dobArray[0]);
-            var retirementDateArray = retirementDate.split('-');
-            var retirementYear = retirementDateArray[0];
-            var retirementMonth = retirementDateArray[1];
+            var dobArray = dob.split('/');
+            var dobMonth = parseInt(dobArray[0]);
+            var dobYear = parseInt(dobArray[1]);
+            var retirementDateArray = retirementDate.split('/');
+            var retirementYear = retirementDateArray[1];
+            var retirementMonth = retirementDateArray[0];
             var today = new Date();
             var currentMonth = today.getMonth() + 1;
             var currentYear = today.getFullYear();
@@ -357,7 +359,7 @@
                     $('#label' + k + '').text("Step " + (k + 1));
                 }
                 $("#welcome-name").append(name);
-                if (retirementPlan != 'at65') {
+                if (retirementDateOption != undefined && retirementDateOption == 'defdate' && retirementPlan != 'at65') {
                     $("#estRetDate").text(monthObj[parseInt(retirementMonth)] + " " + retirementYear);
                 } else {
                     $("#estRetDate").text(monthObj[parseInt(dobMonth)] + " " + (dobYear + 65));
@@ -370,7 +372,7 @@
             if ((monthsTill65 <= 15 && (retirementYear != null && retirementYear != "")) ||
                 retirementPlan == 'at65') {
                 $("#welcome-name").append(name);
-                if (retirementPlan != 'at65') {
+                if (retirementDateOption != undefined && retirementDateOption == 'defdate' && retirementPlan != 'at65') {
                     $("#estRetDate").text(monthObj[parseInt(retirementMonth)] + " " + retirementYear);
                 } else {
                     $("#estRetDate").text(monthObj[parseInt(dobMonth)] + " " + (dobYear + 65));
@@ -536,6 +538,16 @@
             }
         }
 
+        function addVisitedMark(){
+            var active = true;
+            //var ele = $("#timlineTabs li a")
+            $("#timlineTabs li a").click(function(){
+                var clickedEle = this;
+                active = false;
+                
+
+            });
+        }
 
 
     });
