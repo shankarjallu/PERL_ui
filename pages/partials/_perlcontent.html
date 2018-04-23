@@ -7,25 +7,42 @@
             <title>Personalized Timeline</title>
         </head>
         <body>
-        <div class="container">
-            <header>
-                <img src="../../dotcom/images/highmarkLogo.png">
-            </header>
-            <section class="section-timeline">
-               <div class="row div-header">
-                   <div class="col-sm-6">
-                <div class="page-header">
-                    <h1 id="welcome-name">Welcome, </h1>
-                    <p>On this site, you'll find helpful information to make your transition to Medicare easier- including your personalized timeline of steps to take.</p>
-                    <p><b>Estimated Medicare Start Date:</b>
-                        <a data-toggle="tooltip" href="#" title="Based on the retirement information you provided, this is approximate date when your Medicare coverage would start." data-placement="top">
-                            <span class="glyphicon glyphicon-question-sign"></span>
-                        </a>
-                        <br/>
-                        <span id="estRetDate"></span> <a href="#">Change</a></p>
-                </div>
-                </div>
-                </div>
+<div class="container">
+        <header>
+   
+                       
+               
+                <div class="div-header-logo">
+     
+                    <img src="../../dotcom/images/highmarkLogo.png">
+         
+               </div>
+     </header>
+</div>
+
+
+        <!-- <div class="container"> -->
+                
+            <section class="section-timeline div-header">
+                    <div class="container">
+                    <div class="row">
+                            <center>
+                                <div class=".container-fluid div-header-text" >
+                                    <div class="page-header">
+                                        <div class="div-welcome-message" >
+                                        <h1 id="welcome-name">Welcome, </h1>
+                                        <p>On this site, you'll find helpful information to make your transition to Medicare easier- including your personalized timeline of steps to take.</p>
+                                        <p><b>Estimated Medicare Start Date:</b>
+                                            <a data-toggle="tooltip" href="#" title="Based on the retirement information you provided, this is approximate date when your Medicare coverage would start." data-placement="top">
+                                                <span class="glyphicon glyphicon-question-sign"></span>
+                                            </a>
+                                            <br/>
+                                            <span id="estRetDate">Some date</span> <a href="#"><u>Change</u></a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </center>
+                        </div>
               
                 <div class="board">
                     <div class="board-inner">
@@ -38,7 +55,7 @@
                                     <!-- <label id='label0' class="label label-default label-tab"></label> -->
                                     <div class="div-tab-header">
                                         <label id="label0" class="label label-default label-tab">Nov 2017</label>
-                                        <label class="label label-default label-tab">Explore benefits</label>
+                                        <label class="label label-default label-tab">Get Ready</label>
                                     </div>
                                 </a>
                             </li>
@@ -50,7 +67,7 @@
                                     <!-- <label id='label1' class="label label-default label-tab" ></label> -->
                                     <div class="div-tab-header">
                                         <label id="label1" class="label label-default label-tab">Nov 2017</label>
-                                        <label class="label label-default label-tab">Explore benefits</label>
+                                        <label class="label label-default label-tab">Get Informed</label>
                                     </div>
                                 </a>
                             </li>
@@ -62,7 +79,7 @@
                                      <!-- <label id='label2' class="label label-default label-tab" ></label> -->
                                      <div class="div-tab-header">
                                         <label id="label2" class="label label-default label-tab">Nov 2017</label>
-                                        <label class="label label-default label-tab">Explore benefits</label>
+                                        <label class="label label-default label-tab">Check Eligibility</label>
                                     </div>
                                 </a>
                             </li>
@@ -74,7 +91,7 @@
                                     <!-- <label id='label3' class="label label-default label-tab" ></label> -->
                                     <div class="div-tab-header">
                                         <label id="label3" class="label label-default label-tab">Nov 2017</label>
-                                        <label class="label label-default label-tab">Explore benefits</label>
+                                        <label class="label label-default label-tab">Compare Plans</label>
                                     </div>
                                 </a>
                             </li>
@@ -86,7 +103,7 @@
                                     <!-- <label id='label4' class="label label-default label-tab" ></label> -->
                                     <div class="div-tab-header">
                                         <label id="label4" class="label label-default label-tab">Nov 2017</label>
-                                        <label class="label label-default label-tab">Explore benefits</label>
+                                        <label class="label label-default label-tab">Enroll Now</label>
                                     </div>
                                 </a>
                             </li>
@@ -104,10 +121,11 @@
                             </li>
                         </ul>
                     </div>
+                    </div>
                    
+                </section>
 
-
-                    
+                <div class="container">
                     <div class="tab-content">
                        
                         <div class="tab-pane fade" id="tabOneContent">
@@ -179,22 +197,48 @@
                     </div>
 
                 </div>
-            </section>
+                </div>
            
-            <footer class="footer">
-            </footer>
-        </div>
+           
+          
+        <!-- </div> -->
            
             <style>
                     body{
                         font-family: 'segoe ui';
                     }
+                    
+                    .div-welcome-message{
+                    width:50%;
+                    }
+                    /* .div-header-text
+                    {
+                        max-width:1088px;
+                        width:80%;
+                        text-align:left;
+                    } */
+
                     span.round-tabs.one.visited:before{
                         content:"\2713";
                         position:relative;
                         top:-31px;
                         font-size:14px;
+                        font-weight: bolder;
                     }
+                    .div-header-logo{
+                     max-width: 1088px;
+                    color: white;
+                    text-align: justify;
+                    margin: 0 auto;
+                    /* width: 80%; */
+                    }
+                    .tooltip-inner {
+                        background-color: #f9f9f9;
+                        border-radius:10px;
+                        color: black;
+                        padding:15px;
+                    }
+
 
                    .div-tab-header{
                     border: 1px solid white;
@@ -204,6 +248,7 @@
                     left: -37px;
                     text-align: center;
                     display:  block;
+                    cursor: pointer;
 
                    }
 
@@ -216,10 +261,12 @@
                     font-weight:400;
                     }
 
-                  .container {
-                     max-width: 1360px;
-                     padding: 0;
-                  }
+                 .container{
+                    /* width: auto;
+                    max-width:none; */
+                    max-width: 1360px;
+                      }
+
 
                     .footer{
                     background-color: #00a4e4;
@@ -240,9 +287,11 @@
                     .page-header{
                     color:white;
                     border-bottom:none;
-                    width: 85%;
+                    /* width: 91.5%; */
                     margin: 0 auto;
-                    padding:15px 15px 40px 15px;
+                    padding:15px 0 100px 0;
+                    text-align: left;
+                    
                     }
 
                     board{
@@ -274,12 +323,14 @@
                     padding:15px 15px 100px 15px;
                     }
 
-                    .board-inner
-{
-    border-spacing: 0px;
-    position: relative;
-    top: -77px;
-}
+                    .board-inner{
+                        border-spacing: 0px;
+                        position: relative;
+                        top: -77px;
+                        /* max-width:1088px; */
+                        margin:auto;
+                        /* width:80%; */
+                    }
 
                    
 
@@ -472,6 +523,19 @@ border: 2px solid #f5f5f5;
                     li.active a div.div-tab-header{background:#0575ae;}
 
                     @media( max-width : 585px ){
+                        #welcome-name{ font-size: 31px; }
+                        .div-welcome-message{
+                    width:100%;
+                    }
+
+                        span.round-tabs.visited:before{
+                        content:"\2713";
+                        position:relative;
+                         top: -18px;
+                        left: -1px;
+                        font-size:14px;
+			font-weight:bolder;
+                    }
 
                         .label-tab{
                   color: #fcf8e3;
@@ -520,7 +584,10 @@ border: 2px solid #f5f5f5;
 
 
 @media( max-width : 983px ){
-
+    .div-welcome-message{
+                    width:100%;
+                    }
+                    #welcome-name{ font-size: 31px; }
 li a div.div-tab-header{display:none;}
 li.active a div.div-tab-header{display:block;}
 
