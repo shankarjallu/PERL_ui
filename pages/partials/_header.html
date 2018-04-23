@@ -1,4 +1,51 @@
 
+<!DOCTYPE html>
+<html lang="en">
+   
+       <body>
+        <div class="container">
+            
+            <section>
+                    <div class="page-header" >
+                        <h1>Welcome to your personal Medicare website.</h1>
+                        <p>The easy way to stay one step ahead of retirement and your transition to Medicare.</p>
+                    </div>
+                <form name="frmSignUp" action="">
+                    <div class="row" >
+                        <h4 class="form-header">Enter your info to get your personalized Medicare Timeline.</h4>
+                                    <div class="col-sm-5">
+                                        <div class="form-group">
+                                            <label for="firstName">First Name</label>
+                                            <input type="text" class="form-control" id="txtFirstName" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="birthDate">Birth Month/Year</label>
+                                            <label class="form-label">
+                                                <!-- <a href="#" class="tooltiptext" data-toggle="tooltip" data-placement="top" title="Birth Month/Year is used to calculate your age in order to generate your timeline." data-placement="right">Why is this needed?</a> -->
+                                                <a href="#" data-toggle="popover" title="Popover Header" data-placement="top" data-trigger="focus" data-content="Some content inside the popover">Toggle popover</a>
+                                            </label>
+                                            <input type="month" class="form-control" id="txtBirthDate" placeholder="MM/YYYY" required>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="zipCode">ZIP Code</label>
+                                            <input type="number" class="form-control" id="txtZipCode" pattern="^[0-9]*$" required>
+                                            <span id="errorZip" class="error"></span>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="retirementPlans">Retirement Plans</label>
+                                            <select class="form-control" id="exampleFormControlSelect1" placeholder="Select one" onchange="checkSelectedOption();" required>
+                                                <option autofocus value="">Select One</option>
+                                                <option value="nodefplan">Alredy retired</option>
+                                                <option value="at65">Retiring at 65</option>
+                                                <option value="after65">Retiring after 65</option>
+                                            </select>
+                                        </div>
+                                        <div class="form-group div-radio" id="divRetirementDate" onchange="checkRetirementDateOption();">
+                                            <label for="zipCode">Retirement Date</label>
+                                            <div class="radio" class="form-radio">
+                                                <label class="radio-inline"><input type="radio" name="retirementDate" value="nodefdate">No Definite Date</label>
+                                                <label class="radio-inline"><input type="radio" name="retirementDate" value="defdate">On a Specific Date</label>
+
         <!DOCTYPE html>
         <html lang="en">
         
@@ -50,6 +97,7 @@
                                                     <label for="birthDate">Retirement Month/Year</label>
                                                     <input type="text" class="form-control" name = "txtRetirementDate" id="txtRetirementDate" placeholder="MM/YYYY" required>
                                                 </div>
+
 
                                             </div>
                             </div>
