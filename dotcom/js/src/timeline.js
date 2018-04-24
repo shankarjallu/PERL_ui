@@ -454,14 +454,14 @@
 
                 var z = '<div class="contact">';
                 z += '<div class="content">';
-                z += '<h3>' + nozipHeader + '</h3>';
+                z += '<h3 class = "main_header">' + nozipHeader.toUpperCase()  +'</h3>';
                 //The image path has to change in AEM
-                z += '<div class="contact_image">';
+                z += '<div class="no_zip_image contact_image">';
                 z += '<img src="' + nozipImage + '">';
                 z += '</div>';
-                z += '<h3>' + nozipName + '</h3>';
+                z += '<h4 class = "nozip_desc">' + nozipName + '</h4>';
                 z += '<h3>' + nozipTele + '</h3>';
-                z += '<h3>' + perlAdvisornotavail + '</h3>';
+                z += '<h3 class = "nozip_userinfo">' + perlAdvisornotavail + '</h3>';
                 z += '</div>';
                 z += '</div>';
 
@@ -481,8 +481,8 @@
                 var k = '<div class="contact">';
                 k += '<div class="content">';
                 if (result) {
-                    k += '<h2>' + result[0] + '</h2>';
-                    k += '<p>' + result[1] + '</p>';
+                    k += '<h3 class= "main_header">' + (result[0]).toUpperCase() + '</h3>';
+                    k += '<p class = "small_header">' + result[1] + '</p>';
                 } else {
                     k += '<h3>' + result + '</h3>';
                 }
@@ -496,13 +496,14 @@
                 k += '</div>';
                 k += '<div class="col-sm-6">';
                 k += '<div class="info">';
-                k += '<h3>' + perlName + '</h3>';
-                k += '<label>' + "phone:" + '</label>';
-                k += '<span>' + perlTelephone + '</span>';
+                k += '<label>' + "Name: " + "    " + '</label>';
+                k += '<span class = "name">' + perlName + '</span>' + '<br />';
+                k += '<label>' + "Phone: " + '</label>';
+                k += '<span>' +"  "+ perlTelephone + '</span>';
                 k += '<br>';
 
                 if (perlEmail !== null && perlEmail !== "" && perlEmail !== "undefined" && perlEmail !== undefined) {
-                    k += '<label>' + "email:" + '</label>';
+                    k += '<label>' + "Email:" + '</label>';
                     k += '<span>' + perlEmail + '</span>';
 
                 }
@@ -511,7 +512,7 @@
                     k += '<label>' + "Location:" + '</label>';
                     k += '<span>' + perlStreet + '</span>';
                     k += '<br>';
-                    k += '<p>' + perlStreetaddress + '</p>';
+                    k += '<p class ="noimg_address">' + perlStreetaddress + '</p>';
 
 
                 }
@@ -519,7 +520,7 @@
 
                 if (perladviserDes !== "" && perladviserDes !== null && perladviserDes !== "undefined" && perladviserDes !== undefined) {
 
-                    k += '<p class="v-ellipsis" data-expandlink="Read More" data-collapselink="Read Less">' + perladviserDes + '</p>';
+                    k += '<p class="v-ellipsis description" data-expandlink="Read More" data-collapselink="Read Less">' + perladviserDes + '</p>';
                 }
                 k += '</div>';
                 k += '</div>';
