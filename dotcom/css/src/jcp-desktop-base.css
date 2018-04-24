@@ -183,7 +183,8 @@
   margin: 0 auto;
   height: 200px;
   margin-top: 40px;
-  background: white; }
+  background: white;
+  padding-top: 30px; }
 
 .contact_image {
   display: inline-block;
@@ -235,7 +236,7 @@
 
 .info label {
   color: gray;
-  margin-right: 15px; }
+  margin-right: 20px; }
 
 .info .description {
   font-style: italic;
@@ -260,7 +261,12 @@ h3.nozip_userinfo {
 
 p.noimg_address {
   margin-right: 20px;
-  color: red; }
+  width: 100px;
+  text-align: center;
+  width: 330px; }
+
+label.noimg_label_location {
+  margin-right: 10px; }
 
 .container {
   max-width: 1360px; }

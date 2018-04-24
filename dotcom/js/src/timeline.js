@@ -496,9 +496,9 @@
                 k += '</div>';
                 k += '<div class="col-sm-6">';
                 k += '<div class="info">';
-                k += '<label>' + "Name: " + "    " + '</label>';
+                k += '<label>' + "Name:" + "    " + '</label>';
                 k += '<span class = "name">' + perlName + '</span>' + '<br />';
-                k += '<label>' + "Phone: " + '</label>';
+                k += '<label>' + "Phone:" + '</label>';
                 k += '<span>' +"  "+ perlTelephone + '</span>';
                 k += '<br>';
 
@@ -509,7 +509,7 @@
                 }
 
                 if (perlStreet !== null && perlStreet !== "" && perlStreet !== undefined && perlStreet !== "undefined") {
-                    k += '<label>' + "Location:" + '</label>';
+                    k += '<label class = "noimg_label_location">' + "Location:" + '</label>';
                     k += '<span>' + perlStreet + '</span>';
                     k += '<br>';
                     k += '<p class ="noimg_address">' + perlStreetaddress + '</p>';
