@@ -6,13 +6,39 @@
         checkSelectedOption();
         $('[data-toggle="tooltip"]').tooltip();
 
-        // $().vEllipsis({
-        //   'expandLink': true,
-        //   'collapseLink': true,
-        //   'lines': 2
+        //Read More and Less
 
-        // //   'animationTime': '2000',
-        // });
+        AddReadMore();
+
+        function AddReadMore() {
+            //This limit you can set after how much characters you want to show Read More.
+            var carLmt = 60;
+            // Text to show when text is collapsed
+            var readMoreTxt = " ... Read More";
+            // Text to show when text is expanded
+            var readLessTxt = " Read Less";
+        
+        
+            //Traverse all selectors with this class and manupulate HTML part to show Read More
+            $(".addReadMore").each(function() {
+                if ($(this).find(".firstSec").length)
+                    return;
+        
+                var allstr = $(this).text();
+                if (allstr.length > carLmt) {
+                    var firstSet = allstr.substring(0, carLmt);
+                    var secdHalf = allstr.substring(carLmt, allstr.length);
+                    var strtoadd = firstSet + "<span class='SecSec'>" + secdHalf + "</span><span class='readMore'  title='Click to Show More'>" + readMoreTxt + "</span><span class='readLess' title='Click to Show Less'>" + readLessTxt + "</span>";
+                    $(this).html(strtoadd);
+                }
+        
+            });
+            //Read More and Read Less Click Event binding
+            $(document).on("click", ".readMore,.readLess", function() {
+                $(this).closest(".addReadMore").toggleClass("showlesscontent showmorecontent");
+            });
+        }
+
 
         function findMonthsTill65(currentYear, birthYear, birthMonth, currentMonth) {
             var timeTo65 = 65 - (currentYear - birthYear);
@@ -517,14 +543,14 @@
 
                 var z = '<div class="contact">';
                 z += '<div class="content">';
-                z += '<h3>' + nozipHeader + '</h3>';
+                z += '<h3 class = "main_header">' + nozipHeader.toUpperCase()  +'</h3>';
                 //The image path has to change in AEM
-                z += '<div class="contact_image">';
+                z += '<div class="no_zip_image contact_image">';
                 z += '<img src="' + nozipImage + '">';
                 z += '</div>';
-                z += '<h3>' + nozipName + '</h3>';
+                z += '<h4 class = "nozip_desc">' + nozipName + '</h4>';
                 z += '<h3>' + nozipTele + '</h3>';
-                z += '<h3>' + perlAdvisornotavail + '</h3>';
+                z += '<h3 class = "nozip_userinfo">' + perlAdvisornotavail + '</h3>';
                 z += '</div>';
                 z += '</div>';
 
@@ -544,8 +570,8 @@
                 var k = '<div class="contact">';
                 k += '<div class="content">';
                 if (result) {
-                    k += '<h2>' + result[0] + '</h2>';
-                    k += '<p>' + result[1] + '</p>';
+                    k += '<h3 class= "main_header">' + (result[0]).toUpperCase() + '</h3>';
+                    k += '<p class = "small_header">' + result[1] + '</p>';
                 } else {
                     k += '<h3>' + result + '</h3>';
                 }
@@ -559,22 +585,23 @@
                 k += '</div>';
                 k += '<div class="col-sm-6">';
                 k += '<div class="info">';
-                k += '<h3>' + perlName + '</h3>';
-                k += '<label>' + "phone:" + '</label>';
-                k += '<span>' + perlTelephone + '</span>';
+                k += '<label>' + "Name:" + "    " + '</label>';
+                k += '<span class = "name">' + perlName + '</span>' + '<br />';
+                k += '<label>' + "Phone:" + '</label>';
+                k += '<span class="tele">' +"  "+ perlTelephone + '</span>';
                 k += '<br>';
 
                 if (perlEmail !== null && perlEmail !== "" && perlEmail !== "undefined" && perlEmail !== undefined) {
-                    k += '<label>' + "email:" + '</label>';
-                    k += '<span>' + perlEmail + '</span>';
+                    k += '<label>' + "Email:" + '</label>';
+                    k += '<span class="email">' + perlEmail + '</span>';
 
                 }
 
                 if (perlStreet !== null && perlStreet !== "" && perlStreet !== undefined && perlStreet !== "undefined") {
-                    k += '<label>' + "Location:" + '</label>';
+                    k += '<label class = "noimg_label_location">' + "Location:" + '</label>';
                     k += '<span>' + perlStreet + '</span>';
                     k += '<br>';
-                    k += '<p>' + perlStreetaddress + '</p>';
+                    k += '<p class ="noimg_address">' + perlStreetaddress + '</p>';
 
 
                 }
@@ -582,7 +609,7 @@
 
                 if (perladviserDes !== "" && perladviserDes !== null && perladviserDes !== "undefined" && perladviserDes !== undefined) {
 
-                    k += '<p class="v-ellipsis" data-expandlink="Read More" data-collapselink="Read Less">' + perladviserDes + '</p>';
+                    k += '<p class="addReadMore showlesscontent">' + perladviserDes + '</p>';
                 }
                 k += '</div>';
                 k += '</div>';

@@ -38,7 +38,7 @@
                                     <!-- <label id='label0' class="label label-default label-tab"></label> -->
                                     <div class="div-tab-header">
                                         <label id="label0" class="label label-default label-tab">Nov 2017</label>
-                                        <label class="label label-default label-tab">Explore benefits</label>
+                                        <label class="label label-default label-tab">Get Ready</label>
                                     </div>
                                 </a>
                             </li>
@@ -50,7 +50,7 @@
                                     <!-- <label id='label1' class="label label-default label-tab" ></label> -->
                                     <div class="div-tab-header">
                                         <label id="label1" class="label label-default label-tab">Nov 2017</label>
-                                        <label class="label label-default label-tab">Explore benefits</label>
+                                        <label class="label label-default label-tab">Get Informed</label>
                                     </div>
                                 </a>
                             </li>
@@ -62,7 +62,7 @@
                                      <!-- <label id='label2' class="label label-default label-tab" ></label> -->
                                      <div class="div-tab-header">
                                         <label id="label2" class="label label-default label-tab">Nov 2017</label>
-                                        <label class="label label-default label-tab">Explore benefits</label>
+                                        <label class="label label-default label-tab">Check Eligibility</label>
                                     </div>
                                 </a>
                             </li>
@@ -74,7 +74,7 @@
                                     <!-- <label id='label3' class="label label-default label-tab" ></label> -->
                                     <div class="div-tab-header">
                                         <label id="label3" class="label label-default label-tab">Nov 2017</label>
-                                        <label class="label label-default label-tab">Explore benefits</label>
+                                        <label class="label label-default label-tab">Compare Plans</label>
                                     </div>
                                 </a>
                             </li>
@@ -86,7 +86,7 @@
                                     <!-- <label id='label4' class="label label-default label-tab" ></label> -->
                                     <div class="div-tab-header">
                                         <label id="label4" class="label label-default label-tab">Nov 2017</label>
-                                        <label class="label label-default label-tab">Explore benefits</label>
+                                        <label class="label label-default label-tab">Enroll Now</label>
                                     </div>
                                 </a>
                             </li>
@@ -104,10 +104,11 @@
                             </li>
                         </ul>
                     </div>
+                    </div>
                    
+                </section>
 
-
-                    
+                <div class="container">
                     <div class="tab-content">
                        
                         <div class="tab-pane fade" id="tabOneContent">
@@ -179,11 +180,11 @@
                     </div>
 
                 </div>
-            </section>
+                </div>
            
-            <footer class="footer">
-            </footer>
-        </div>
+           
+          
+        <!-- </div> -->
            
             <style>
                     body{
@@ -194,7 +195,22 @@
                         position:relative;
                         top:-31px;
                         font-size:14px;
+                        font-weight: bolder;
                     }
+                    .div-header-logo{
+                     max-width: 1088px;
+                    color: white;
+                    text-align: justify;
+                    margin: 0 auto;
+                    /* width: 80%; */
+                    }
+                    .tooltip-inner {
+                        background-color: #f9f9f9;
+                        border-radius:10px;
+                        color: black;
+                        padding:15px;
+                    }
+
 
                    .div-tab-header{
                     border: 1px solid white;
@@ -204,6 +220,7 @@
                     left: -37px;
                     text-align: center;
                     display:  block;
+                    cursor: pointer;
 
                    }
 
@@ -216,10 +233,12 @@
                     font-weight:400;
                     }
 
-                  .container {
-                     max-width: 1360px;
-                     padding: 0;
-                  }
+                 .container{
+                    /* width: auto;
+                    max-width:none; */
+                    max-width: 1360px;
+                      }
+
 
                     .footer{
                     background-color: #00a4e4;
@@ -240,9 +259,11 @@
                     .page-header{
                     color:white;
                     border-bottom:none;
-                    width: 85%;
+                    /* width: 91.5%; */
                     margin: 0 auto;
-                    padding:15px 15px 40px 15px;
+                    padding:15px 15px 27px 15px;
+                    text-align: left;
+                    
                     }
 
                     board{
@@ -266,20 +287,16 @@
                         margin-bottom: 0;
                         box-sizing: border-box;
                     }
-                    .page-header{
-                    color:white;
-                    border-bottom:none;
-                    width: 85%;
-                    margin: 0 auto;
-                    padding:15px 15px 100px 15px;
-                    }
+                    
 
-                    .board-inner
-{
-    border-spacing: 0px;
-    position: relative;
-    top: -77px;
-}
+                    .board-inner{
+                        border-spacing: 0px;
+                       /* position: relative;*/
+                        /*top: -77px;*/
+                        /* max-width:1088px; */
+                        margin:auto;
+                        /* width:80%; */
+                    }
 
                    
 
@@ -472,6 +489,19 @@ border: 2px solid #f5f5f5;
                     li.active a div.div-tab-header{background:#0575ae;}
 
                     @media( max-width : 585px ){
+                        #welcome-name{ font-size: 31px; }
+                        .div-welcome-message{
+                    width:100%;
+                    }
+
+                        span.round-tabs.visited:before{
+                        content:"\2713";
+                        position:relative;
+                         top: -18px;
+                        left: -1px;
+                        font-size:14px;
+			font-weight:bolder;
+                    }
 
                         .label-tab{
                   color: #fcf8e3;
@@ -519,12 +549,40 @@ border: 2px solid #f5f5f5;
                 }
 
 
-@media( max-width : 983px ){
-
+@media( max-width : 661px ){
+    .div-welcome-message{
+                    width:100%;
+                    }
+                    #welcome-name{ font-size: 31px; }
 li a div.div-tab-header{display:none;}
 li.active a div.div-tab-header{display:block;}
 
 }
+
+/* css for read more and less */
+
+.addReadMore.showlesscontent .SecSec,
+    .addReadMore.showlesscontent .readLess {
+        display: none;
+    }
+    
+    .addReadMore.showmorecontent .readMore {
+        display: none;
+    }
+    
+    .addReadMore .readMore,
+    .addReadMore .readLess {
+        font-weight: bold;
+        margin-left: 2px;
+        color: #00BFFF;
+        cursor: pointer;
+    }
+    
+    .addReadMoreWrapTxt.showmorecontent .SecSec,
+    .addReadMoreWrapTxt.showmorecontent .readLess {
+        display: block;
+    }
+
 
 
             </style>
