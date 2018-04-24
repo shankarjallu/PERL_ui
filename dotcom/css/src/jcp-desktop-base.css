@@ -181,7 +181,6 @@
   transition: 0.3s;
   width: 635px;
   margin: 0 auto;
-  height: 200px;
   margin-top: 40px;
   background: white;
   padding-top: 30px; }
@@ -228,7 +227,7 @@
 .mail {
   color: blue; }
 
-.info span {
+.info .email {
   font-weight: bold;
   font-size: 14px;
   text-align: left;

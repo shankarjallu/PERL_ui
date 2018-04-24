@@ -5,13 +5,39 @@
         $('[data-toggle="tooltip"]').tooltip();
 
 
-        // $().vEllipsis({
-        //   'expandLink': true,
-        //   'collapseLink': true,
-        //   'lines': 2
+        //Read More and Less
 
-        // //   'animationTime': '2000',
-        // });
+        AddReadMore();
+
+        function AddReadMore() {
+            //This limit you can set after how much characters you want to show Read More.
+            var carLmt = 60;
+            // Text to show when text is collapsed
+            var readMoreTxt = " ... Read More";
+            // Text to show when text is expanded
+            var readLessTxt = " Read Less";
+        
+        
+            //Traverse all selectors with this class and manupulate HTML part to show Read More
+            $(".addReadMore").each(function() {
+                if ($(this).find(".firstSec").length)
+                    return;
+        
+                var allstr = $(this).text();
+                if (allstr.length > carLmt) {
+                    var firstSet = allstr.substring(0, carLmt);
+                    var secdHalf = allstr.substring(carLmt, allstr.length);
+                    var strtoadd = firstSet + "<span class='SecSec'>" + secdHalf + "</span><span class='readMore'  title='Click to Show More'>" + readMoreTxt + "</span><span class='readLess' title='Click to Show Less'>" + readLessTxt + "</span>";
+                    $(this).html(strtoadd);
+                }
+        
+            });
+            //Read More and Read Less Click Event binding
+            $(document).on("click", ".readMore,.readLess", function() {
+                $(this).closest(".addReadMore").toggleClass("showlesscontent showmorecontent");
+            });
+        }
+
 
         function findMonthsTill65(currentYear, birthYear, birthMonth, currentMonth) {
             var timeTo65 = 65 - (currentYear - birthYear);
@@ -499,12 +525,12 @@
                 k += '<label>' + "Name:" + "    " + '</label>';
                 k += '<span class = "name">' + perlName + '</span>' + '<br />';
                 k += '<label>' + "Phone:" + '</label>';
-                k += '<span>' +"  "+ perlTelephone + '</span>';
+                k += '<span class="tele">' +"  "+ perlTelephone + '</span>';
                 k += '<br>';
 
                 if (perlEmail !== null && perlEmail !== "" && perlEmail !== "undefined" && perlEmail !== undefined) {
                     k += '<label>' + "Email:" + '</label>';
-                    k += '<span>' + perlEmail + '</span>';
+                    k += '<span class="email">' + perlEmail + '</span>';
 
                 }
 
@@ -520,7 +546,7 @@
 
                 if (perladviserDes !== "" && perladviserDes !== null && perladviserDes !== "undefined" && perladviserDes !== undefined) {
 
-                    k += '<p class="v-ellipsis description" data-expandlink="Read More" data-collapselink="Read Less">' + perladviserDes + '</p>';
+                    k += '<p class="addReadMore showlesscontent">' + perladviserDes + '</p>';
                 }
                 k += '</div>';
                 k += '</div>';
