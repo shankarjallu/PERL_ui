@@ -8,6 +8,7 @@ function validateForm() {
         rules: {
 
             txtFirstName: "required",
+            retirementDate: "required",
             txtBirthDate: {
                 dateFormat: true,
                 lessThanToday: true
@@ -26,6 +27,7 @@ function validateForm() {
         },
         messages: {
             txtFirstName: "Enter your firstname",
+            retirementDate: "Please select one of the options",
             txtBirthDate: {
                 dateFormat: "Please enter a complete birth month/year",
                 required: "Please provide a month/year",

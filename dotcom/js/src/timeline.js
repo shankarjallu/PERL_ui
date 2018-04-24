@@ -1,9 +1,10 @@
 (function(window, document, $, undefined) {
     $(document).ready(function() {
         getFormFields();
-        // tooltip
+        populateForm();
+        updateForm();
+        checkSelectedOption();
         $('[data-toggle="tooltip"]').tooltip();
-
 
         // $().vEllipsis({
         //   'expandLink': true,
@@ -66,36 +67,62 @@
                     console.log("13 months page!, more than 15 months!");
                     $("#tabOne").parent().addClass("active");
                     $("#tabOneContent").addClass("active in");
+                    $("#tabOne").children("span:first-child").addClass("checkedFlag");
                     return true;
                 }
                 if (monthsTill65 > 11) {
-                    console.log("13 months page!");
+                    console.log("12 months page!");
                     $("#tabTwo").parent("li").addClass("active");
                     $("#tabTwoContent").addClass("active in");
+                    $("#tabTwo").children("span:first-child").addClass("checkedFlag");
+                    $("span.round-tabs").addClass("visited");
+                    $("span.round-tabs.two").removeClass("visited");
+                    $("span.round-tabs.three").removeClass("visited");
+                    $("span.round-tabs.four").removeClass("visited");
+                    $("span.round-tabs.five").removeClass("visited");
+                    $("span.round-tabs.six").removeClass("visited");
                     return true;
                 }
                 if (monthsTill65 > 8) {
                     console.log("9 months page!");
                     $("#tabThree").parent("li").addClass("active");
                     $("#tabThreeContent").addClass("active in");
+                    $("#tabThree").children("span:first-child").addClass("checkedFlag");
+                    $("span.round-tabs").addClass("visited");
+                    $("span.round-tabs.three").removeClass("visited");
+                    $("span.round-tabs.four").removeClass("visited");
+                    $("span.round-tabs.five").removeClass("visited");
+                    $("span.round-tabs.six").removeClass("visited");
                     return true;
                 }
                 if (monthsTill65 > 5) {
                     console.log("6 months page!");
                     $("#tabFour").parent("li").addClass("active");
                     $("#tabFourContent").addClass("active in");
+                    $("#tabFour").children("span:first-child").addClass("checkedFlag");
+                    $("span.round-tabs").addClass("visited");
+                    $("span.round-tabs.four").removeClass("visited");
+                    $("span.round-tabs.five").removeClass("visited");
+                    $("span.round-tabs.six").removeClass("visited");
                     return true;
                 }
                 if (monthsTill65 > 0) {
                     console.log("3 months page!");
                     $("#tabFive").parent("li").addClass("active");
                     $("#tabFiveContent").addClass("active in");
+                    $("#tabFive").children("span:first-child").addClass("checkedFlag");
+                    $("span.round-tabs").addClass("visited");
+                    $("span.round-tabs.five").removeClass("visited");
+                    $("span.round-tabs.six").removeClass("visited");
                     return true;
                 }
                 if (monthsTill65 <= 0) {
                     console.log("Congrats  page!");
                     $("#tabSix").parent("li").addClass("active");
                     $("#tabSixContent").addClass("active in");
+                    $("#tabSix").children("span:first-child").addClass("checkedFlag");
+                    $("span.round-tabs").addClass("visited");
+                    $("span.round-tabs.six").removeClass("visited");
                     return true;
                 }
 
@@ -104,12 +131,16 @@
                     console.log("Congrats  page!");
                     $("#tabSix").parent("li").addClass("active");
                     $("#tabSixContent").addClass("active in");
+                    $("#tabSix").children("span:first-child").addClass("checkedFlag");
+                    $("span.round-tabs").addClass("visited");
+                    $("span.round-tabs.six").removeClass("visited");
                     return true;
                 }
                 if (monthsTill65 > 15) {
                     console.log("13 months page!, more than 15 months!");
                     $("#tabOne").parent().addClass("active");
                     $("#tabOneContent").addClass("active in");
+                    $("#tabOne").children("span:first-child").addClass("checkedFlag");
                     return true;
                 }
                 if (monthsTill65 <= 15 && retirementPlan == 'after65' &&
@@ -117,12 +148,14 @@
                     console.log("no def date, 13 month page!");
                     $("#tabOne").parent("li").addClass("active");
                     $("#tabOneContent").addClass("active in");
+                    $("#tabOne").children("span:first-child").addClass("checkedFlag");
                     return true;
                 }
                 if (monthsTill65 <= 15 && retirementPlan == 'nodefplan') {
                     console.log("no plan, and <= 15 months, go to 13 months page!");
                     $("#tabOne").parent("li").addClass("active");
                     $("#tabOneContent").addClass("active in");
+                    $("#tabOne").children("span:first-child").addClass("checkedFlag");
                     return true;
                 }
 
@@ -131,6 +164,7 @@
                     console.log("13 months page!");
                     $("#tabOne").parent("li").addClass("active");
                     $("#tabOneContent").addClass("active in");
+                    $("#tabOne").children("span:first-child").addClass("checkedFlag");
                     return true;
                 }
                 if (monthsTill65 <= 15 && retirementPlan == 'after65' &&
@@ -138,6 +172,13 @@
                     console.log("12 months page!");
                     $("#tabTwo").parent("li").addClass("active");
                     $("#tabTwoContent").addClass("active in");
+                    $("#tabTwo").children("span:first-child").addClass("checkedFlag");
+                    $("span.round-tabs").addClass("visited");
+                    $("span.round-tabs.two").removeClass("visited");
+                    $("span.round-tabs.three").removeClass("visited");
+                    $("span.round-tabs.four").removeClass("visited");
+                    $("span.round-tabs.five").removeClass("visited");
+                    $("span.round-tabs.six").removeClass("visited");
                     return true;
                 }
                 if (monthsTill65 <= 15 && retirementPlan == 'after65' &&
@@ -145,6 +186,12 @@
                     console.log("9 months page!");
                     $("#tabThree").parent("li").addClass("active");
                     $("#tabThreeContent").addClass("active in");
+                    $("#tabThree").children("span:first-child").addClass("checkedFlag");
+                    $("span.round-tabs").addClass("visited");
+                    $("span.round-tabs.three").removeClass("visited");
+                    $("span.round-tabs.four").removeClass("visited");
+                    $("span.round-tabs.five").removeClass("visited");
+                    $("span.round-tabs.six").removeClass("visited");
                     return true;
                 }
                 if (monthsTill65 <= 15 && retirementPlan == 'after65' &&
@@ -152,6 +199,11 @@
                     console.log("6 months page!");
                     $("#tabFour").parent("li").addClass("active");
                     $("#tabFourContent").addClass("active in");
+                    $("#tabFour").children("span:first-child").addClass("checkedFlag");
+                    $("span.round-tabs").addClass("visited");
+                    $("span.round-tabs.four").removeClass("visited");
+                    $("span.round-tabs.five").removeClass("visited");
+                    $("span.round-tabs.six").removeClass("visited");
                     return true;
                 }
                 if (monthsTill65 <= 15 && retirementPlan == 'after65' &&
@@ -159,6 +211,10 @@
                     console.log("3 months page!");
                     $("#tabFive").parent("li").addClass("active");
                     $("#tabFiveContent").addClass("active in");
+                    $("#tabFive").children("span:first-child").addClass("checkedFlag");
+                    $("span.round-tabs").addClass("visited");
+                    $("span.round-tabs.five").removeClass("visited");
+                    $("span.round-tabs.six").removeClass("visited");
                     return true;
                 }
             }
@@ -197,6 +253,11 @@
             }
             $("form[name='frmSignUp']").submit(function(event) {
                 event.preventDefault();
+                var form = $("#frmSignUp");
+                if(!form.valid()){
+                    return false;
+                }
+
 
                 var zipvalue = $('#txtZipCode').val();
                 console.log(zipvalue);
@@ -255,16 +316,17 @@
 
                 monthsTill65 = findMonthsTill65(currentYear, birthYear, birthMonth, currentMonth);
                 monthsTillRetirement = findMonthsTillRetirement(retirementYear, currentYear, retirementMonth, currentMonth);
-                if (monthsTillRetirement == "late") {
-                    alert("retirement date should be future date!");
-                    return false;
-                }
+                // if (monthsTillRetirement == "late") {
+                //     alert("retirement date should be future date!");
+                //     return false;
+                // }
                 // if (monthsTillRetirement < monthsTill65) {
                 //     alert("your retirement date is " + (monthsTill65 - monthsTillRetirement) + " month(s) earlier than your actual retirement age!" );
                 //     return false;
                 // }
                 cookieObj.name = name;
                 cookieObj.dob = dob;
+                cookieObj.zip = zipCode;
                 cookieObj.retirementDate = retirementDate;
                 cookieObj.retirementDateOption = retirementDateOption;
                 cookieObj.retirementPlan = retirementPlan;
@@ -365,6 +427,7 @@
                     $("#estRetDate").text(monthObj[parseInt(dobMonth)] + " " + (dobYear + 65));
                 }
                 checkAndDisplayContent(monthsTill65, monthsTillRetirement, retirementPlan, retirementDateOption);
+                addVisitedMark();
                 return true;
             }
 
@@ -539,14 +602,72 @@
         }
 
         function addVisitedMark(){
-            var active = true;
-            //var ele = $("#timlineTabs li a")
-            $("#timlineTabs li a").click(function(){
+            var activeEle = $("#timelineTabs li.active");
+            var prevEle = $(activeEle).children("a:first-child");
+            $("#timelineTabs li a").click(function(){
                 var clickedEle = this;
-                active = false;
-                
+                if($(clickedEle).children("span:first-child").hasClass("visited") &&
+                    !($(prevEle).children("span:first-child").hasClass("visited"))){
+                    $(prevEle).children("span:first-child").addClass("visited");
+                    return true;
+                }
+                if($(clickedEle).children("span:first-child").hasClass("visited")){
+                    console.log("visited!");
+                    prevEle = clickedEle;
+                   return true; 
+                }else {
+                    if($(prevEle).children("span:first-child").hasClass("checkedFlag")){
+                        $(clickedEle).children("span:first-child").addClass("checkedFlag");
+                        $(prevEle).children("span:first-child").addClass("visited");
+                        prevEle = clickedEle;
+                        return true;
+                        
+                    }else {
+                       $(clickedEle).children("span:first-child").addClass("checkedFlag");
+                        console.log("not visited!");
+                        prevEle = clickedEle;
+                        return true; 
+                    }
+                }  
+
+            return true;
 
             });
+        }
+
+        function updateForm(){
+            $("#changeInfo").click(function(){
+                var cookie = getCookie("timeline-details");
+                setCookie("form-cookie", cookie);
+                deleteCookie("timeline-details");
+
+                window.location.href = 'home.html';  
+
+            });
+        }
+
+        function populateForm(){
+                var formCookie = getCookie("form-cookie");
+                if(formCookie == null || formCookie == "" || formCookie == undefined){
+                    return false;
+                }
+                var parsedCookie = JSON.parse(formCookie);
+                var name = parsedCookie.name;
+                var dob = parsedCookie.dob;
+                var zip = parsedCookie.zip;
+                var retirementDateOption = parsedCookie.retirementDateOption;
+                var retirementDate = parsedCookie.retirementDate;
+                var retirementPlan = parsedCookie.retirementPlan; 
+
+                $("#txtFirstName").attr("value", name);
+                $("#txtBirthDate").attr("value", dob);
+                $("#txtZipCode").attr("value", zip);
+                $("#exampleFormControlSelect1 option[value= "+retirementPlan+"]").attr("selected", "selected");
+                if(retirementDateOption){
+                    $("input[name='retirementDate']:checked").attr("value", retirementDateOption);
+
+                }
+                $("#txtRetirementDate").attr("value", retirementDate);
         }
 
 

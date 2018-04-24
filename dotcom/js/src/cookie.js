@@ -23,8 +23,8 @@ function deleteCookie(cname){
 
 function checkSelectedOption()
             {
-                var selectedValue=document.getElementById('exampleFormControlSelect1');
-                if(selectedValue.value=="after65")
+                var selectedValue = $('#exampleFormControlSelect1 :selected').val();
+                if(selectedValue == "after65")
                 {
                     $("#divRetirementDate").fadeIn(500);
                     $("[name|='retirementDate']").attr("required");
@@ -37,8 +37,8 @@ function checkSelectedOption()
             }
             function checkRetirementDateOption()
             {
-                var selectedValue=$("[name|='retirementDate']:checked").val();
-                if(selectedValue =="defdate")
+                var selectedValue = $("[name|='retirementDate']:checked").val();
+                if(selectedValue == "defdate")
                 {
                     $("#divRetirementMonth").fadeIn(500);
                     $("#txtRetirementDate").attr("required");
