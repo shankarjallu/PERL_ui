@@ -7,29 +7,46 @@
             <title>Personalized Timeline</title>
         </head>
         <body>
-        <div class="container">
-            <header>
-                <img src="../../dotcom/images/highmarkLogo.png">
-            </header>
-            <section class="section-timeline">
-               <div class="row div-header">
-                   <div class="col-sm-6">
-                <div class="page-header">
-                    <h1 id="welcome-name">Welcome, </h1>
-                    <p>On this site, you'll find helpful information to make your transition to Medicare easier- including your personalized timeline of steps to take.</p>
-                    <p><b>Estimated Medicare Start Date:</b>
-                        <a data-toggle="tooltip" href="#" title="Based on the retirement information you provided, this is approximate date when your Medicare coverage would start." data-placement="top">
-                            <span class="glyphicon glyphicon-question-sign"></span>
-                        </a>
-                        <br/>
-                        <span id="estRetDate"></span> <a href="#" id="changeInfo">Change</a></p>
-                </div>
-                </div>
-                </div>
+<div class="container">
+        <header>
+   
+                       
+               
+                <div class="div-header-logo">
+     
+                    <img src="../../dotcom/images/highmarkLogo.png">
+         
+               </div>
+     </header>
+</div>
+
+
+        <!-- <div class="container"> -->
+                
+            <section class="section-timeline div-header">
+                    <div class="container">
+                    <div class="row">
+                            <center>
+                                <div class=".container-fluid div-header-text" >
+                                    <div class="page-header">
+                                        <div class="div-welcome-message" >
+                                        <h1 id="welcome-name">Welcome, </h1>
+                                        <p>On this site, you'll find helpful information to make your transition to Medicare easier- including your personalized timeline of steps to take.</p>
+                                        <p><b>Estimated Medicare Start Date:</b>
+                                            <a data-toggle="tooltip" href="#" title="Based on the retirement information you provided, this is approximate date when your Medicare coverage would start." data-placement="top">
+                                                <span class="glyphicon glyphicon-question-sign"></span>
+                                            </a>
+                                            <br/>
+                                            <span id="estRetDate">Some date</span> <a href="#" id="changeInfo"><u>Change</u></a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </center>
+                        </div>
               
                 <div class="board">
                     <div class="board-inner">
-                        <ul class="nav nav-tabs custom-nav-tabs" id="timelineTabs">
+                        <ul class="nav nav-tabs custom-nav-tabs" id="timlineTabs">
                             <div class="liner"></div> 
                             <li class="li-timeline">
                                 <a id="tabOne" href="#tabOneContent" data-toggle="tab"  >
@@ -190,7 +207,18 @@
                     body{
                         font-family: 'segoe ui';
                     }
-                    span.round-tabs.visited:before{
+                    
+                    .div-welcome-message{
+                    width:50%;
+                    }
+                    /* .div-header-text
+                    {
+                        max-width:1088px;
+                        width:80%;
+                        text-align:left;
+                    } */
+
+                    span.round-tabs.one.visited:before{
                         content:"\2713";
                         position:relative;
                         top:-31px;
@@ -500,7 +528,7 @@ border: 2px solid #f5f5f5;
                          top: -18px;
                         left: -1px;
                         font-size:14px;
-			font-weight:bolder;
+            font-weight:bolder;
                     }
 
                         .label-tab{
@@ -590,3 +618,4 @@ li.active a div.div-tab-header{display:block;}
         </body>
 
 </html>
+
