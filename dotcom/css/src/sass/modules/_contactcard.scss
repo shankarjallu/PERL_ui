@@ -1,3 +1,6 @@
+.contact{
+    width: 100%;
+}
 .content{
     margin: 0 auto;
     text-align: center;
@@ -47,9 +50,12 @@
 }
 .info {
     margin-top: 0px;
-    width: 350px;
+    width: 100%;
     float: left;
     text-align: left;
+    position: relative;
+
+    
 }
 .info .name{
     font-weight: bold;
@@ -79,11 +85,16 @@
     font-size: 16px;
     color: gray;
     padding-right: 20px;
+    width: 100%;
+    text-align: center;
+    position: relative;
 }
 
 .content .main_header{
     font-weight: bold;
     margin-bottom: 20px;
+    width: 100%;
+    font-size: 18px;
 }
 
 .content .small_header{
@@ -92,7 +103,7 @@
 
 h4.nozip_desc{
     margin: 0 auto;
-    width: 350px;
+    width: 40%;
     font-size: 15px;
 }
 
@@ -109,4 +120,37 @@ p.noimg_address{
 
 label.noimg_label_location{
     margin-right: 10px;
+}
+
+
+
+.card{
+    overflow: hidden;
+   // width: 100%;
+}
+
+@media(max-width: 991px){
+    .info label{
+        display: none !important;
+    }
+    .contact_image img{
+        text-align: center;
+    }     
+
+    .info {
+        text-align: center;
+    }
+    .card {
+        width: 100%;
+    }
+
+    .info .description{
+        position: relative;
+        width: 100%;
+        padding-left: 10px;
+    }
+    p.noimg_address{
+        text-align: center;
+        width: 100%;
+    }
 }
