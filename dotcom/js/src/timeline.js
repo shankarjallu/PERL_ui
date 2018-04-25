@@ -609,7 +609,7 @@
 
                 if (perladviserDes !== "" && perladviserDes !== null && perladviserDes !== "undefined" && perladviserDes !== undefined) {
 
-                    k += '<p class="addReadMore showlesscontent">' + perladviserDes + '</p>';
+                    k += '<p class="addReadMore showlesscontent description">' + perladviserDes + '</p>';
                 }
                 k += '</div>';
                 k += '</div>';
