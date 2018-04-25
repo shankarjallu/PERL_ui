@@ -454,6 +454,8 @@
                 }
                 checkAndDisplayContent(monthsTill65, monthsTillRetirement, retirementPlan, retirementDateOption);
                 addVisitedMark();
+                // var ele = $("#timlineTabs li a");
+                // $(ele).bind("click", addVisitedMark(ele));
                 return true;
             }
 
@@ -628,10 +630,10 @@
             }
         }
 
-        function addVisitedMark(){
-            var activeEle = $("#timelineTabs li.active");
+        function addVisitedMark(){  
+            var activeEle = $("#timlineTabs li.active");
             var prevEle = $(activeEle).children("a:first-child");
-            $("#timelineTabs li a").click(function(){
+            $("#timlineTabs li a").click(function(){
                 var clickedEle = this;
                 if($(clickedEle).children("span:first-child").hasClass("visited") &&
                     !($(prevEle).children("span:first-child").hasClass("visited"))){
@@ -659,7 +661,7 @@
 
             return true;
 
-            });
+           });
         }
 
         function updateForm(){
