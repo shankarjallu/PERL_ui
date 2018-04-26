@@ -18,9 +18,12 @@
                         </div>
                         <div class="form-group">
                             <label for="birthDate">Birth Month/Year</label>
-                            <label class="form-label">
+                            <!--<label class="form-label">
                                 <a href="#" class="tooltiptext" data-toggle="tooltip" data-placement="top" title="Birth Month/Year is used to calculate your age in order to generate your timeline." data-placement="right">Why is this needed?</a>
-                            </label>
+                            </label>-->
+                            <a class="popover-tooltip" data-toggle="tooltip" href="#" title="" data-placement="top" data-original-title="Birth Month/Year is used to calculate your age in order to generate your timeline.">
+                                <span class="glyphicon glyphicon-question-sign"></span>
+                            </a>
                             <input type="text" class="form-control" id="txtBirthDate" name="txtBirthDate" placeholder="MM/YYYY" required>
                         </div>
                         <div class="form-group">
@@ -174,6 +177,11 @@
     background-position-y: center;
     background-position-x: 90%;
     }
+    
+    .popover-tooltip{
+       color:grey;
+       float:right;
+     }
 
     @media( max-width : 768px ){
       #divSignUp{ background-image:none; }
