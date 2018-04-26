@@ -9,7 +9,7 @@
                 <p>The easy way to stay one step ahead of retirement and your transition to Medicare.</p>
             </div>
             <form name="frmSignUp" action="" id="frmSignUp">
-                <div class="row">
+                <div id="divSignUp" class="row">
                     <h4 class="form-header">Enter your info to get your personalized Medicare Timeline.</h4>
                     <div class="col-sm-5">
                         <div class="form-group">
@@ -164,6 +164,20 @@
 
     .btn-get-timeline {
         float: right;
+    }
+        
+    #divSignUp{
+    background-image: url(../../dotcom/images/member-card.png);
+    background-repeat: no-repeat;
+    /* background-position: 80% 66%; */
+    background-size: 265px;
+    background-position-y: center;
+    background-position-x: 90%;
+    }
+
+    @media( max-width : 768px ){
+      #divSignUp{ background-image:none; }
+    .col-sm-5{ width:100%; }
     }
     </style>
     <script src="../../../dotcom/js/src/formvalidation.js"></script>
