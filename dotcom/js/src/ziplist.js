@@ -11,7 +11,7 @@ function getZipCodeArray(){
         "Street": "1754 East 3rd Street",
         "Streetaddress": "Williamsport, PA 17701",
         "Image": "../../dotcom/images/Williamsport.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]"
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home"
       },
       {
         "Zip": "16509",
@@ -23,7 +23,7 @@ function getZipCodeArray(){
         "Street": "5753 Peach Street",
         "Streetaddress": "Erie, PA 16509",
         "Image": "../../dotcom/images/Erie.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]"
+         "Finddoctor": "https://www.drmatch.com/"
       },
       {
         "Zip": "15275",
@@ -35,7 +35,7 @@ function getZipCodeArray(){
         "Street": "218 Summit Park Drive",
         "Streetaddress": "North Fayette, PA 15275",
         "Image": "../../dotcom/images/North Fayette.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]"
+         "Finddoctor": "https://www.drmatch.com/"
       },
       {
         "Zip": "15241",
@@ -47,7 +47,7 @@ function getZipCodeArray(){
         "Street": "1775 North Highland Road",
         "Streetaddress": "Pittsburgh, PA 15241",
         "Image": "../../dotcom/images/South Hills.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]"
+         "Finddoctor": "https://www.drmatch.com/"
       },
       {
         "Zip": "15237",
@@ -59,7 +59,7 @@ function getZipCodeArray(){
         "Street": "4885 McKnight Road",
         "Streetaddress": "Pittsburgh, PA 15237",
         "Image": "../../dotcom/images/North Hills.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]"
+         "Finddoctor": "https://www.drmatch.com/"
       },
       {
         "Zip": "15146",
@@ -71,7 +71,7 @@ function getZipCodeArray(){
         "Street": "4008 William Penn Highway",
         "Streetaddress": "Monroeville, PA 15146",
         "Image": "../../dotcom/images/Monroeville.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]"
+         "Finddoctor": "https://www.drmatch.com/"
       },
       {
         "Zip": "18103",
@@ -140,7 +140,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -150,7 +150,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -160,7 +160,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -170,7 +170,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -180,7 +180,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -190,7 +190,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -200,7 +200,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -210,7 +210,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -220,7 +220,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -230,7 +230,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -240,7 +240,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -250,7 +250,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -260,7 +260,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -270,7 +270,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -280,7 +280,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -290,7 +290,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -300,7 +300,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -310,7 +310,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -320,7 +320,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -330,7 +330,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -340,7 +340,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -350,7 +350,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -360,7 +360,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -370,7 +370,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -380,7 +380,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -390,7 +390,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -400,7 +400,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -410,7 +410,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -420,7 +420,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -430,7 +430,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -440,7 +440,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -450,7 +450,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -460,7 +460,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -470,7 +470,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -480,7 +480,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -490,7 +490,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -500,7 +500,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -510,7 +510,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -520,7 +520,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -530,7 +530,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -540,7 +540,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -550,7 +550,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -560,7 +560,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -570,7 +570,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -580,7 +580,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -590,7 +590,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -600,7 +600,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -610,7 +610,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -620,7 +620,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -630,7 +630,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -640,7 +640,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -650,7 +650,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -660,7 +660,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -670,7 +670,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -680,7 +680,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -690,7 +690,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -700,7 +700,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -710,7 +710,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -720,7 +720,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -730,7 +730,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -740,7 +740,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -750,7 +750,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -760,7 +760,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -770,7 +770,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -780,7 +780,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -790,7 +790,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -800,7 +800,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -810,7 +810,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -820,7 +820,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -830,7 +830,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -840,7 +840,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -850,7 +850,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -860,7 +860,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -870,7 +870,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -880,7 +880,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -890,7 +890,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -900,7 +900,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -910,7 +910,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -920,7 +920,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -930,7 +930,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -940,7 +940,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -950,7 +950,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -960,7 +960,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -970,7 +970,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -980,7 +980,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -990,7 +990,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1000,7 +1000,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1010,7 +1010,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1020,7 +1020,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1030,7 +1030,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1040,7 +1040,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1050,7 +1050,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1060,7 +1060,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1070,7 +1070,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1080,7 +1080,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1090,7 +1090,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1100,7 +1100,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1110,7 +1110,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1120,7 +1120,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1130,7 +1130,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1140,7 +1140,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1150,7 +1150,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1160,7 +1160,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1170,7 +1170,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1180,7 +1180,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1190,7 +1190,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1200,7 +1200,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1210,7 +1210,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1220,7 +1220,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1230,7 +1230,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1240,7 +1240,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1250,7 +1250,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1260,7 +1260,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1270,7 +1270,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1280,7 +1280,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1290,7 +1290,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1300,7 +1300,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1310,7 +1310,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1320,7 +1320,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1330,7 +1330,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1340,7 +1340,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1350,7 +1350,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1360,7 +1360,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1370,7 +1370,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1380,7 +1380,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1390,7 +1390,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1400,7 +1400,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1410,7 +1410,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1420,7 +1420,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1430,7 +1430,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1440,7 +1440,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1450,7 +1450,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1460,7 +1460,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1470,7 +1470,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1480,7 +1480,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1490,7 +1490,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1500,7 +1500,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1510,7 +1510,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1520,7 +1520,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1530,7 +1530,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1540,7 +1540,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1550,7 +1550,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1560,7 +1560,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1570,7 +1570,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1580,7 +1580,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1590,7 +1590,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1600,7 +1600,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1610,7 +1610,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1620,7 +1620,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1630,7 +1630,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1640,7 +1640,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1650,7 +1650,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1660,7 +1660,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1670,7 +1670,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1680,7 +1680,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1690,7 +1690,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1700,7 +1700,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1710,7 +1710,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1720,7 +1720,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1730,7 +1730,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1740,7 +1740,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1750,7 +1750,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1760,7 +1760,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1770,7 +1770,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1780,7 +1780,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1790,7 +1790,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1800,7 +1800,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1810,7 +1810,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1820,7 +1820,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1830,7 +1830,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1840,7 +1840,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1850,7 +1850,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1860,7 +1860,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1870,7 +1870,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1880,7 +1880,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1890,7 +1890,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1900,7 +1900,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1910,7 +1910,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1920,7 +1920,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1930,7 +1930,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1940,7 +1940,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1950,7 +1950,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1960,7 +1960,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1970,7 +1970,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1980,7 +1980,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -1990,7 +1990,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2000,7 +2000,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2010,7 +2010,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2020,7 +2020,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2030,7 +2030,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2040,7 +2040,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2050,7 +2050,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2060,7 +2060,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2070,7 +2070,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2080,7 +2080,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2090,7 +2090,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2100,7 +2100,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2110,7 +2110,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2120,7 +2120,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2130,7 +2130,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2140,7 +2140,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2150,7 +2150,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2160,7 +2160,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2170,7 +2170,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2180,7 +2180,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2190,7 +2190,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2200,7 +2200,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2210,7 +2210,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2220,7 +2220,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2230,7 +2230,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2240,7 +2240,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2250,7 +2250,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2260,7 +2260,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2270,7 +2270,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2280,7 +2280,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2290,7 +2290,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2300,7 +2300,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2310,7 +2310,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2320,7 +2320,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2330,7 +2330,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2340,7 +2340,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2350,7 +2350,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2360,7 +2360,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2370,7 +2370,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2380,7 +2380,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2390,7 +2390,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2400,7 +2400,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2410,7 +2410,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2420,7 +2420,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2430,7 +2430,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2440,7 +2440,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2450,7 +2450,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2460,7 +2460,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2470,7 +2470,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2480,7 +2480,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2490,7 +2490,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2500,7 +2500,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2510,7 +2510,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2520,7 +2520,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2530,7 +2530,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2540,7 +2540,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2550,7 +2550,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2560,7 +2560,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2570,7 +2570,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2580,7 +2580,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2590,7 +2590,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2600,7 +2600,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2610,7 +2610,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2620,7 +2620,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2630,7 +2630,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2640,7 +2640,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2650,7 +2650,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2660,7 +2660,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2670,7 +2670,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2680,7 +2680,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2690,7 +2690,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2700,7 +2700,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2710,7 +2710,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2720,7 +2720,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2730,7 +2730,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2740,7 +2740,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2750,7 +2750,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2760,7 +2760,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2770,7 +2770,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2780,7 +2780,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2790,7 +2790,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2800,7 +2800,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2810,7 +2810,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2820,7 +2820,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2830,7 +2830,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2840,7 +2840,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2850,7 +2850,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2860,7 +2860,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2870,7 +2870,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2880,7 +2880,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2890,7 +2890,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2900,7 +2900,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2910,7 +2910,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2920,7 +2920,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2930,7 +2930,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2940,7 +2940,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2950,7 +2950,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2960,7 +2960,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2970,7 +2970,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2980,7 +2980,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -2990,7 +2990,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3000,7 +3000,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3010,7 +3010,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3020,7 +3020,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3030,7 +3030,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3040,7 +3040,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3050,7 +3050,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3060,7 +3060,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3070,7 +3070,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3080,7 +3080,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3090,7 +3090,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3100,7 +3100,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3110,7 +3110,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3120,7 +3120,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3130,7 +3130,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3140,7 +3140,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3150,7 +3150,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3160,7 +3160,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3170,7 +3170,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3180,7 +3180,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3190,7 +3190,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3200,7 +3200,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3210,7 +3210,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3220,7 +3220,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3230,7 +3230,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3240,7 +3240,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3250,7 +3250,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3260,7 +3260,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3270,7 +3270,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3280,7 +3280,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3290,7 +3290,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3300,7 +3300,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3310,7 +3310,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3320,7 +3320,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3330,7 +3330,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3340,7 +3340,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3350,7 +3350,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3360,7 +3360,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3370,7 +3370,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3380,7 +3380,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3390,7 +3390,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3400,7 +3400,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3410,7 +3410,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3420,7 +3420,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3430,7 +3430,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3440,7 +3440,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3450,7 +3450,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3460,7 +3460,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3470,7 +3470,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3480,7 +3480,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3490,7 +3490,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3500,7 +3500,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3510,7 +3510,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3520,7 +3520,7 @@ function getZipCodeArray(){
         "Name": "Get Answers to all your enrollment questions, enroll in a plan by phone, and more.",
         "Telephone": "(866) 434-1995",
         "Image": "../../dotcom/images/SalesRep.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "Advisornotavail": "TTY users call 711, 8:00 am - 8:00 pm, seven days a week"
       },
       {
@@ -3530,7 +3530,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3541,7 +3541,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3552,7 +3552,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3563,7 +3563,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3574,7 +3574,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3585,7 +3585,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3596,7 +3596,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3607,7 +3607,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3618,7 +3618,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3629,7 +3629,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3640,7 +3640,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3651,7 +3651,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3662,7 +3662,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3673,7 +3673,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3684,7 +3684,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3695,7 +3695,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3706,7 +3706,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3717,7 +3717,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3728,7 +3728,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3739,7 +3739,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3750,7 +3750,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3761,7 +3761,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3772,7 +3772,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3783,7 +3783,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3794,7 +3794,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3805,7 +3805,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3816,7 +3816,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3827,7 +3827,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3838,7 +3838,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3849,7 +3849,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3860,7 +3860,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3871,7 +3871,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3882,7 +3882,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3893,7 +3893,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3904,7 +3904,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3915,7 +3915,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3926,7 +3926,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3937,7 +3937,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3948,7 +3948,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3959,7 +3959,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3970,7 +3970,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3981,7 +3981,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -3992,7 +3992,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4003,7 +4003,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4014,7 +4014,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4025,7 +4025,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4036,7 +4036,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4047,7 +4047,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4058,7 +4058,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4069,7 +4069,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4080,7 +4080,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4091,7 +4091,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4102,7 +4102,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4113,7 +4113,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4124,7 +4124,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4135,7 +4135,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4146,7 +4146,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4157,7 +4157,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4168,7 +4168,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4179,7 +4179,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4190,7 +4190,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4201,7 +4201,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4212,7 +4212,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4223,7 +4223,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4234,7 +4234,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4245,7 +4245,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4256,7 +4256,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4267,7 +4267,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4278,7 +4278,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4289,7 +4289,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4300,7 +4300,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4311,7 +4311,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4322,7 +4322,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4333,7 +4333,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4344,7 +4344,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4355,7 +4355,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4366,7 +4366,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4377,7 +4377,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4388,7 +4388,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4399,7 +4399,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4410,7 +4410,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4421,7 +4421,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4432,7 +4432,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4443,7 +4443,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4454,7 +4454,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4465,7 +4465,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4476,7 +4476,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4487,7 +4487,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4498,7 +4498,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4509,7 +4509,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4520,7 +4520,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4531,7 +4531,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4542,7 +4542,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4553,7 +4553,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4564,7 +4564,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4575,7 +4575,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4586,7 +4586,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4597,7 +4597,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4608,7 +4608,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4619,7 +4619,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4630,7 +4630,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4641,7 +4641,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4652,7 +4652,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4663,7 +4663,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4674,7 +4674,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4685,7 +4685,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4696,7 +4696,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4707,7 +4707,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4718,7 +4718,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4729,7 +4729,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4740,7 +4740,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4751,7 +4751,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4762,7 +4762,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4773,7 +4773,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4784,7 +4784,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4795,7 +4795,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4806,7 +4806,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4817,7 +4817,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4828,7 +4828,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4839,7 +4839,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4850,7 +4850,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4861,7 +4861,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4872,7 +4872,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4883,7 +4883,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4894,7 +4894,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4905,7 +4905,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4916,7 +4916,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4927,7 +4927,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4938,7 +4938,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4949,7 +4949,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4960,7 +4960,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4971,7 +4971,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4982,7 +4982,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -4993,7 +4993,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5004,7 +5004,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5015,7 +5015,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5026,7 +5026,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5037,7 +5037,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5048,7 +5048,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5059,7 +5059,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5070,7 +5070,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5081,7 +5081,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5092,7 +5092,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5103,7 +5103,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5114,7 +5114,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5125,7 +5125,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5136,7 +5136,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5147,7 +5147,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5158,7 +5158,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5169,7 +5169,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5180,7 +5180,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5191,7 +5191,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5202,7 +5202,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5213,7 +5213,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5224,7 +5224,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5235,7 +5235,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5246,7 +5246,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5257,7 +5257,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5268,7 +5268,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5279,7 +5279,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5290,7 +5290,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5301,7 +5301,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5312,7 +5312,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5323,7 +5323,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5334,7 +5334,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5345,7 +5345,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5356,7 +5356,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5367,7 +5367,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5378,7 +5378,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5389,7 +5389,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5400,7 +5400,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5411,7 +5411,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5422,7 +5422,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5433,7 +5433,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5444,7 +5444,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5455,7 +5455,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5466,7 +5466,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5477,7 +5477,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5488,7 +5488,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5499,7 +5499,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5510,7 +5510,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5521,7 +5521,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5532,7 +5532,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5543,7 +5543,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5554,7 +5554,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5565,7 +5565,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5576,7 +5576,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5587,7 +5587,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5598,7 +5598,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5609,7 +5609,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5620,7 +5620,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5631,7 +5631,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5642,7 +5642,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5653,7 +5653,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5664,7 +5664,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5675,7 +5675,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5686,7 +5686,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5697,7 +5697,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5708,7 +5708,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5719,7 +5719,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5730,7 +5730,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5741,7 +5741,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5752,7 +5752,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5763,7 +5763,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5774,7 +5774,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5785,7 +5785,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5796,7 +5796,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5807,7 +5807,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5818,7 +5818,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5829,7 +5829,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5840,7 +5840,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5851,7 +5851,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5862,7 +5862,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5873,7 +5873,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5884,7 +5884,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5895,7 +5895,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5906,7 +5906,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5917,7 +5917,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5928,7 +5928,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5939,7 +5939,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5950,7 +5950,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5961,7 +5961,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5972,7 +5972,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5983,7 +5983,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -5994,7 +5994,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6005,7 +6005,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6016,7 +6016,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6027,7 +6027,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6038,7 +6038,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6049,7 +6049,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6060,7 +6060,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6071,7 +6071,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6082,7 +6082,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6093,7 +6093,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6104,7 +6104,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6115,7 +6115,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6126,7 +6126,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6137,7 +6137,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6148,7 +6148,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6159,7 +6159,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6170,7 +6170,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6181,7 +6181,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6192,7 +6192,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6203,7 +6203,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6214,7 +6214,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6225,7 +6225,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6236,7 +6236,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6247,7 +6247,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6258,7 +6258,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6269,7 +6269,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6280,7 +6280,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6291,7 +6291,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6302,7 +6302,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6313,7 +6313,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6324,7 +6324,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6335,7 +6335,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6346,7 +6346,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6357,7 +6357,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6368,7 +6368,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6379,7 +6379,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6390,7 +6390,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6401,7 +6401,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6412,7 +6412,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6423,7 +6423,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6434,7 +6434,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6445,7 +6445,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6456,7 +6456,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6467,7 +6467,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6478,7 +6478,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6489,7 +6489,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6500,7 +6500,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6511,7 +6511,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6522,7 +6522,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6533,7 +6533,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6544,7 +6544,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6555,7 +6555,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6566,7 +6566,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6577,7 +6577,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6588,7 +6588,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6599,7 +6599,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6610,7 +6610,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6621,7 +6621,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6632,7 +6632,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6643,7 +6643,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6654,7 +6654,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6665,7 +6665,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6676,7 +6676,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6687,7 +6687,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6698,7 +6698,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6709,7 +6709,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6720,7 +6720,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6731,7 +6731,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6742,7 +6742,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6753,7 +6753,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6764,7 +6764,7 @@ function getZipCodeArray(){
         "Name": "Dona Marks",
         "Telephone": "(866)743-5504",
         "Image": "../../dotcom/images/Dona.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "dona.marks@highmark.com",
         "advisordescritption": "A Pennsylvania native, Dona has over 15 years of experience in the health insurance industry. She has given over 2,500 Medicare Sales Seminars and has met with thousands of people in the comfort of their homes to answer their Medicare questions. As a result of her strong performance, she was promoted to senior sales executive in 2012."
       },
@@ -6775,7 +6775,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -6786,7 +6786,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -6797,7 +6797,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -6808,7 +6808,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -6819,7 +6819,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -6830,7 +6830,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -6841,7 +6841,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -6852,7 +6852,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -6863,7 +6863,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -6874,7 +6874,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -6885,7 +6885,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -6896,7 +6896,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -6907,7 +6907,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -6918,7 +6918,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -6929,7 +6929,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -6940,7 +6940,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -6951,7 +6951,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -6962,7 +6962,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -6973,7 +6973,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -6984,7 +6984,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -6995,7 +6995,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7006,7 +7006,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7017,7 +7017,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7028,7 +7028,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7039,7 +7039,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7050,7 +7050,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7061,7 +7061,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7072,7 +7072,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7083,7 +7083,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7094,7 +7094,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7105,7 +7105,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7116,7 +7116,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7127,7 +7127,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7138,7 +7138,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7149,7 +7149,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7160,7 +7160,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7171,7 +7171,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7182,7 +7182,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7193,7 +7193,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7204,7 +7204,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7215,7 +7215,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7226,7 +7226,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7237,7 +7237,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7248,7 +7248,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7259,7 +7259,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7270,7 +7270,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7281,7 +7281,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7292,7 +7292,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7303,7 +7303,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7314,7 +7314,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7325,7 +7325,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7336,7 +7336,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7347,7 +7347,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7358,7 +7358,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7369,7 +7369,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7380,7 +7380,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7391,7 +7391,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7402,7 +7402,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7413,7 +7413,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7424,7 +7424,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7435,7 +7435,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7446,7 +7446,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7457,7 +7457,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7468,7 +7468,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7479,7 +7479,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7490,7 +7490,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7501,7 +7501,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7512,7 +7512,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7523,7 +7523,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7534,7 +7534,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7545,7 +7545,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7556,7 +7556,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7567,7 +7567,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7578,7 +7578,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7589,7 +7589,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7600,7 +7600,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7611,7 +7611,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7622,7 +7622,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7633,7 +7633,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7644,7 +7644,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7655,7 +7655,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7666,7 +7666,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7677,7 +7677,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7688,7 +7688,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7699,7 +7699,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7710,7 +7710,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7721,7 +7721,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7732,7 +7732,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7743,7 +7743,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7754,7 +7754,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7765,7 +7765,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7776,7 +7776,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7787,7 +7787,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7798,7 +7798,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7809,7 +7809,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7820,7 +7820,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7831,7 +7831,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7842,7 +7842,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7853,7 +7853,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7864,7 +7864,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7875,7 +7875,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7886,7 +7886,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7897,7 +7897,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7908,7 +7908,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7919,7 +7919,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7930,7 +7930,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7941,7 +7941,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7952,7 +7952,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7963,7 +7963,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7974,7 +7974,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7985,7 +7985,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -7996,7 +7996,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8007,7 +8007,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8018,7 +8018,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8029,7 +8029,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8040,7 +8040,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8051,7 +8051,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8062,7 +8062,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8073,7 +8073,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8084,7 +8084,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8095,7 +8095,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8106,7 +8106,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8117,7 +8117,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8128,7 +8128,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8139,7 +8139,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8150,7 +8150,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8161,7 +8161,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8172,7 +8172,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8183,7 +8183,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8194,7 +8194,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8205,7 +8205,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8216,7 +8216,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8227,7 +8227,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8238,7 +8238,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8249,7 +8249,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8260,7 +8260,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8271,7 +8271,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8282,7 +8282,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8293,7 +8293,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8304,7 +8304,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8315,7 +8315,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8326,7 +8326,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8337,7 +8337,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8348,7 +8348,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8359,7 +8359,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8370,7 +8370,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8381,7 +8381,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8392,7 +8392,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8403,7 +8403,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8414,7 +8414,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8425,7 +8425,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8436,7 +8436,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8447,7 +8447,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8458,7 +8458,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8469,7 +8469,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8480,7 +8480,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8491,7 +8491,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8502,7 +8502,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8513,7 +8513,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8524,7 +8524,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8535,7 +8535,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8546,7 +8546,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8557,7 +8557,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8568,7 +8568,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8579,7 +8579,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8590,7 +8590,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8601,7 +8601,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8612,7 +8612,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8623,7 +8623,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8634,7 +8634,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8645,7 +8645,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8656,7 +8656,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8667,7 +8667,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8678,7 +8678,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8689,7 +8689,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8700,7 +8700,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8711,7 +8711,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8722,7 +8722,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8733,7 +8733,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8744,7 +8744,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8755,7 +8755,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8766,7 +8766,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8777,7 +8777,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8788,7 +8788,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8799,7 +8799,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8810,7 +8810,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8821,7 +8821,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8832,7 +8832,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8843,7 +8843,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8854,7 +8854,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8865,7 +8865,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8876,7 +8876,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8887,7 +8887,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8898,7 +8898,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8909,7 +8909,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8920,7 +8920,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8931,7 +8931,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8942,7 +8942,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8953,7 +8953,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8964,7 +8964,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8975,7 +8975,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8986,7 +8986,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -8997,7 +8997,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9008,7 +9008,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9019,7 +9019,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9030,7 +9030,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9041,7 +9041,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9052,7 +9052,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9063,7 +9063,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9074,7 +9074,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9085,7 +9085,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9096,7 +9096,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9107,7 +9107,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9118,7 +9118,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9129,7 +9129,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9140,7 +9140,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9151,7 +9151,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9162,7 +9162,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9173,7 +9173,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9184,7 +9184,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9195,7 +9195,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9206,7 +9206,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9217,7 +9217,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9228,7 +9228,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9239,7 +9239,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9250,7 +9250,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9261,7 +9261,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9272,7 +9272,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9283,7 +9283,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9294,7 +9294,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9305,7 +9305,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9316,7 +9316,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9327,7 +9327,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9338,7 +9338,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9349,7 +9349,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9360,7 +9360,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9371,7 +9371,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9382,7 +9382,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9393,7 +9393,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9404,7 +9404,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9415,7 +9415,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9426,7 +9426,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9437,7 +9437,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9448,7 +9448,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9459,7 +9459,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9470,7 +9470,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9481,7 +9481,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9492,7 +9492,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9503,7 +9503,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9514,7 +9514,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9525,7 +9525,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9536,7 +9536,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9547,7 +9547,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9558,7 +9558,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9569,7 +9569,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9580,7 +9580,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9591,7 +9591,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9602,7 +9602,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9613,7 +9613,7 @@ function getZipCodeArray(){
         "Name": "Kate Mac Jarrett",
        "Telephone": "(866) 755-7347",
         "Image": "../../dotcom/images/Katherine.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "katharine.macjarrett@highmark.com",
         "advisordescritption": "A Pennsylvania resident, Katharine has over 10 years of experience in the health insurance industry. She has given many Medicare Sales Seminars and has met with people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9624,7 +9624,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9635,7 +9635,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9646,7 +9646,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9657,7 +9657,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9668,7 +9668,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9679,7 +9679,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9690,7 +9690,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9701,7 +9701,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9712,7 +9712,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9723,7 +9723,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9734,7 +9734,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9745,7 +9745,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9756,7 +9756,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9767,7 +9767,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9778,7 +9778,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9789,7 +9789,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9800,7 +9800,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9811,7 +9811,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9822,7 +9822,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9833,7 +9833,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9844,7 +9844,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9855,7 +9855,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9866,7 +9866,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9877,7 +9877,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9888,7 +9888,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9899,7 +9899,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9910,7 +9910,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9921,7 +9921,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9932,7 +9932,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9943,7 +9943,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9954,7 +9954,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9965,7 +9965,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9976,7 +9976,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9987,7 +9987,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -9998,7 +9998,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10009,7 +10009,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10020,7 +10020,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10031,7 +10031,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10042,7 +10042,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10053,7 +10053,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10064,7 +10064,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10075,7 +10075,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10086,7 +10086,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10097,7 +10097,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10108,7 +10108,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10119,7 +10119,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10130,7 +10130,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10141,7 +10141,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10152,7 +10152,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10163,7 +10163,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10174,7 +10174,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10185,7 +10185,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10196,7 +10196,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10207,7 +10207,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10218,7 +10218,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10229,7 +10229,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10240,7 +10240,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10251,7 +10251,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10262,7 +10262,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10273,7 +10273,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10284,7 +10284,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10295,7 +10295,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10306,7 +10306,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10317,7 +10317,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10328,7 +10328,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10339,7 +10339,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10350,7 +10350,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10361,7 +10361,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10372,7 +10372,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10383,7 +10383,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10394,7 +10394,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10405,7 +10405,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10416,7 +10416,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10427,7 +10427,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10438,7 +10438,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10449,7 +10449,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10460,7 +10460,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10471,7 +10471,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10482,7 +10482,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10493,7 +10493,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10504,7 +10504,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10515,7 +10515,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10526,7 +10526,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10537,7 +10537,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10548,7 +10548,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10559,7 +10559,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10570,7 +10570,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10581,7 +10581,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10592,7 +10592,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10603,7 +10603,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10614,7 +10614,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10625,7 +10625,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10636,7 +10636,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10647,7 +10647,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10658,7 +10658,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10669,7 +10669,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10680,7 +10680,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10691,7 +10691,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10702,7 +10702,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10713,7 +10713,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10724,7 +10724,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10735,7 +10735,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10746,7 +10746,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10757,7 +10757,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10768,7 +10768,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10779,7 +10779,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10790,7 +10790,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10801,7 +10801,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10812,7 +10812,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10823,7 +10823,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10834,7 +10834,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10845,7 +10845,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10856,7 +10856,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10867,7 +10867,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10878,7 +10878,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10889,7 +10889,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10900,7 +10900,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10911,7 +10911,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10922,7 +10922,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10933,7 +10933,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10944,7 +10944,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10955,7 +10955,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10966,7 +10966,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10977,7 +10977,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10988,7 +10988,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -10999,7 +10999,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11010,7 +11010,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11021,7 +11021,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11032,7 +11032,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11043,7 +11043,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11054,7 +11054,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11065,7 +11065,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11076,7 +11076,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11087,7 +11087,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11098,7 +11098,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11109,7 +11109,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11120,7 +11120,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11131,7 +11131,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11142,7 +11142,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11153,7 +11153,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11164,7 +11164,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11175,7 +11175,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11186,7 +11186,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11197,7 +11197,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11208,7 +11208,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11219,7 +11219,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11230,7 +11230,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11241,7 +11241,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11252,7 +11252,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11263,7 +11263,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11274,7 +11274,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11285,7 +11285,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11296,7 +11296,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11307,7 +11307,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11318,7 +11318,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11329,7 +11329,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11340,7 +11340,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11351,7 +11351,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11362,7 +11362,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11373,7 +11373,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11384,7 +11384,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11395,7 +11395,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11406,7 +11406,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11417,7 +11417,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11428,7 +11428,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11439,7 +11439,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11450,7 +11450,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11461,7 +11461,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11472,7 +11472,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11483,7 +11483,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11494,7 +11494,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11505,7 +11505,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11516,7 +11516,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11527,7 +11527,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11538,7 +11538,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11549,7 +11549,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11560,7 +11560,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11571,7 +11571,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11582,7 +11582,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11593,7 +11593,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11604,7 +11604,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11615,7 +11615,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11626,7 +11626,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11637,7 +11637,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11648,7 +11648,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11659,7 +11659,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11670,7 +11670,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11681,7 +11681,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11692,7 +11692,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11703,7 +11703,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11714,7 +11714,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11725,7 +11725,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11736,7 +11736,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11747,7 +11747,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11758,7 +11758,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11769,7 +11769,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11780,7 +11780,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11791,7 +11791,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11802,7 +11802,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11813,7 +11813,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11824,7 +11824,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11835,7 +11835,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11846,7 +11846,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11857,7 +11857,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11868,7 +11868,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11879,7 +11879,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11890,7 +11890,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11901,7 +11901,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11912,7 +11912,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11923,7 +11923,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11934,7 +11934,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11945,7 +11945,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11956,7 +11956,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11967,7 +11967,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11978,7 +11978,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -11989,7 +11989,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12000,7 +12000,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12011,7 +12011,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12022,7 +12022,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12033,7 +12033,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12044,7 +12044,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12055,7 +12055,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12066,7 +12066,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12077,7 +12077,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12088,7 +12088,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12099,7 +12099,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12110,7 +12110,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12121,7 +12121,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12132,7 +12132,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12143,7 +12143,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12154,7 +12154,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12165,7 +12165,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12176,7 +12176,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12187,7 +12187,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12198,7 +12198,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12209,7 +12209,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12220,7 +12220,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12231,7 +12231,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12242,7 +12242,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12253,7 +12253,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12264,7 +12264,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12275,7 +12275,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12286,7 +12286,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12297,7 +12297,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12308,7 +12308,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12319,7 +12319,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12330,7 +12330,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12341,7 +12341,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12352,7 +12352,7 @@ function getZipCodeArray(){
         "Name": "Natalie Harnish",
         "Telephone": "(866)743-5551",
         "Image": "../../dotcom/images/Natile.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "Natalie.Harnish@highmark.com",
         "advisordescritption": "A Pennsylvania native, Natalie has over 10 years of experience in the health insurance industry. She has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12363,7 +12363,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12374,7 +12374,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12385,7 +12385,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12396,7 +12396,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12407,7 +12407,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12418,7 +12418,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12429,7 +12429,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12440,7 +12440,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12451,7 +12451,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12462,7 +12462,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12473,7 +12473,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12484,7 +12484,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12495,7 +12495,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12506,7 +12506,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12517,7 +12517,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12528,7 +12528,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12539,7 +12539,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12550,7 +12550,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12561,7 +12561,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12572,7 +12572,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12583,7 +12583,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12594,7 +12594,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12605,7 +12605,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12616,7 +12616,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12627,7 +12627,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12638,7 +12638,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12649,7 +12649,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12660,7 +12660,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12671,7 +12671,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12682,7 +12682,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12693,7 +12693,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12704,7 +12704,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12715,7 +12715,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12726,7 +12726,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12737,7 +12737,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12748,7 +12748,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12759,7 +12759,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12770,7 +12770,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12781,7 +12781,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12792,7 +12792,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12803,7 +12803,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12814,7 +12814,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12825,7 +12825,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12836,7 +12836,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12847,7 +12847,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12858,7 +12858,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12869,7 +12869,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12880,7 +12880,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12891,7 +12891,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12902,7 +12902,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12913,7 +12913,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12924,7 +12924,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12935,7 +12935,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12946,7 +12946,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12957,7 +12957,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12968,7 +12968,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12979,7 +12979,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -12990,7 +12990,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13001,7 +13001,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13012,7 +13012,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13023,7 +13023,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13034,7 +13034,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13045,7 +13045,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13056,7 +13056,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13067,7 +13067,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13078,7 +13078,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13089,7 +13089,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13100,7 +13100,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13111,7 +13111,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13122,7 +13122,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13133,7 +13133,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13144,7 +13144,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13155,7 +13155,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13166,7 +13166,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13177,7 +13177,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13188,7 +13188,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13199,7 +13199,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13210,7 +13210,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13221,7 +13221,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13232,7 +13232,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13243,7 +13243,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13254,7 +13254,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13265,7 +13265,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13276,7 +13276,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13287,7 +13287,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13298,7 +13298,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13309,7 +13309,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13320,7 +13320,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13331,7 +13331,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13342,7 +13342,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13353,7 +13353,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13364,7 +13364,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13375,7 +13375,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13386,7 +13386,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13397,7 +13397,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13408,7 +13408,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13419,7 +13419,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13430,7 +13430,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13441,7 +13441,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13452,7 +13452,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13463,7 +13463,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13474,7 +13474,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13485,7 +13485,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13496,7 +13496,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13507,7 +13507,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13518,7 +13518,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13529,7 +13529,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13540,7 +13540,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13551,7 +13551,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13562,7 +13562,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13573,7 +13573,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13584,7 +13584,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13595,7 +13595,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13606,7 +13606,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13617,7 +13617,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13628,7 +13628,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13639,7 +13639,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13650,7 +13650,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13661,7 +13661,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13672,7 +13672,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkbcbs.com/find-a-doctor/#/home]",
+        "Finddoctor": "https://www.highmarkbcbs.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13683,7 +13683,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13694,7 +13694,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13705,7 +13705,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13716,7 +13716,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13727,7 +13727,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13738,7 +13738,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13749,7 +13749,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13760,7 +13760,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13771,7 +13771,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13782,7 +13782,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13793,7 +13793,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13804,7 +13804,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13815,7 +13815,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13826,7 +13826,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13837,7 +13837,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13848,7 +13848,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13859,7 +13859,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13870,7 +13870,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13881,7 +13881,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13892,7 +13892,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13903,7 +13903,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13914,7 +13914,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13925,7 +13925,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13936,7 +13936,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13947,7 +13947,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13958,7 +13958,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13969,7 +13969,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13980,7 +13980,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -13991,7 +13991,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14002,7 +14002,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14013,7 +14013,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14024,7 +14024,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14035,7 +14035,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14046,7 +14046,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14057,7 +14057,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14068,7 +14068,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14079,7 +14079,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14090,7 +14090,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14101,7 +14101,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14112,7 +14112,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14123,7 +14123,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14134,7 +14134,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14145,7 +14145,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14156,7 +14156,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14167,7 +14167,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14178,7 +14178,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14189,7 +14189,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14200,7 +14200,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14211,7 +14211,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14222,7 +14222,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14233,7 +14233,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14244,7 +14244,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14255,7 +14255,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14266,7 +14266,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14277,7 +14277,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14288,7 +14288,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14299,7 +14299,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14310,7 +14310,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14321,7 +14321,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14332,7 +14332,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14343,7 +14343,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14354,7 +14354,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14365,7 +14365,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14376,7 +14376,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14387,7 +14387,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14398,7 +14398,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14409,7 +14409,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14420,7 +14420,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14431,7 +14431,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14442,7 +14442,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14453,7 +14453,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14464,7 +14464,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14475,7 +14475,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14486,7 +14486,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14497,7 +14497,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14508,7 +14508,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14519,7 +14519,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14530,7 +14530,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14541,7 +14541,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14552,7 +14552,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14563,7 +14563,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14574,7 +14574,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14585,7 +14585,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14596,7 +14596,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14607,7 +14607,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14618,7 +14618,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14629,7 +14629,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14640,7 +14640,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14651,7 +14651,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14662,7 +14662,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14673,7 +14673,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14684,7 +14684,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14695,7 +14695,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14706,7 +14706,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14717,7 +14717,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14728,7 +14728,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14739,7 +14739,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14750,7 +14750,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14761,7 +14761,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14772,7 +14772,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14783,7 +14783,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14794,7 +14794,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14805,7 +14805,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14816,7 +14816,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14827,7 +14827,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14838,7 +14838,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14849,7 +14849,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14860,7 +14860,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14871,7 +14871,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14882,7 +14882,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14893,7 +14893,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14904,7 +14904,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14915,7 +14915,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14926,7 +14926,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14937,7 +14937,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14948,7 +14948,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14959,7 +14959,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14970,7 +14970,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14981,7 +14981,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -14992,7 +14992,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15003,7 +15003,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15014,7 +15014,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15025,7 +15025,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15036,7 +15036,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15047,7 +15047,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15058,7 +15058,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15069,7 +15069,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15080,7 +15080,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15091,7 +15091,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15102,7 +15102,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15113,7 +15113,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15124,7 +15124,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15135,7 +15135,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15146,7 +15146,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15157,7 +15157,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15168,7 +15168,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15179,7 +15179,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15190,7 +15190,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15201,7 +15201,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15212,7 +15212,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15223,7 +15223,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15234,7 +15234,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15245,7 +15245,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15256,7 +15256,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15267,7 +15267,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15278,7 +15278,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15289,7 +15289,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15300,7 +15300,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15311,7 +15311,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15322,7 +15322,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15333,7 +15333,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15344,7 +15344,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15355,7 +15355,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15366,7 +15366,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15377,7 +15377,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15388,7 +15388,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15399,7 +15399,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15410,7 +15410,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15421,7 +15421,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15432,7 +15432,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15443,7 +15443,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15454,7 +15454,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15465,7 +15465,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15476,7 +15476,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15487,7 +15487,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15498,7 +15498,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15509,7 +15509,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15520,7 +15520,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15531,7 +15531,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15542,7 +15542,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15553,7 +15553,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15564,7 +15564,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15575,7 +15575,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15586,7 +15586,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15597,7 +15597,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15608,7 +15608,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15619,7 +15619,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15630,7 +15630,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15641,7 +15641,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15652,7 +15652,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15663,7 +15663,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15674,7 +15674,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15685,7 +15685,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15696,7 +15696,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15707,7 +15707,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15718,7 +15718,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15729,7 +15729,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15740,7 +15740,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15751,7 +15751,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15762,7 +15762,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15773,7 +15773,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15784,7 +15784,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15795,7 +15795,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15806,7 +15806,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15817,7 +15817,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15828,7 +15828,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15839,7 +15839,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15850,7 +15850,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15861,7 +15861,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15872,7 +15872,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15883,7 +15883,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15894,7 +15894,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15905,7 +15905,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15916,7 +15916,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15927,7 +15927,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15938,7 +15938,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15949,7 +15949,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15960,7 +15960,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15971,7 +15971,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15982,7 +15982,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -15993,7 +15993,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16004,7 +16004,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16015,7 +16015,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16026,7 +16026,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16037,7 +16037,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16048,7 +16048,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16059,7 +16059,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16070,7 +16070,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16081,7 +16081,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16092,7 +16092,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16103,7 +16103,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16114,7 +16114,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16125,7 +16125,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16136,7 +16136,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16147,7 +16147,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16158,7 +16158,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16169,7 +16169,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16180,7 +16180,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16191,7 +16191,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16202,7 +16202,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16213,7 +16213,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16224,7 +16224,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16235,7 +16235,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "DR MATCH QUIZ [https://www.drmatchDR MATCH QUIZ.com/]",
+         "Finddoctor": "https://www.drmatch.com/",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16246,7 +16246,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16257,7 +16257,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16268,7 +16268,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16279,7 +16279,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16290,7 +16290,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16301,7 +16301,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16312,7 +16312,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16323,7 +16323,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16334,7 +16334,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16345,7 +16345,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16356,7 +16356,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16367,7 +16367,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16378,7 +16378,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16389,7 +16389,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16400,7 +16400,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16411,7 +16411,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16422,7 +16422,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16433,7 +16433,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16444,7 +16444,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16455,7 +16455,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16466,7 +16466,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16477,7 +16477,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16488,7 +16488,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16499,7 +16499,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16510,7 +16510,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16521,7 +16521,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16532,7 +16532,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       },
@@ -16543,7 +16543,7 @@ function getZipCodeArray(){
         "Name": "Terry Meshanko",
         "Telephone": "(844) 751-0230",
         "Image": "../../dotcom/images/Terry.jpg",
-        "Find a Doctor": "PROVIDER SEARCH [https://www.highmarkblueshield.com/find-a-doctor/#/home]",
+         "Finddoctor": "https://www.highmarkblueshield.com/find-a-doctor/#/home",
         "email": "teresa.meshanko@highmark.com",
         "advisordescritption": "A Pennsylvania native, Terry has over 20 years of experience in the health insurance industry. She has given over a thousand Medicare Sales Seminars and has met with hundreds of people in the comfort of their homes to answer their Medicare questions."
       }
